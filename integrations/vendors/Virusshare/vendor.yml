@@ -1,0 +1,5 @@
+id: Virusshare
+name: "VirusShare"
+description: "VirusShare is a malware sample repository containing over 110 million samples, providing researchers and analysts access to malware specimens for analysis and signature development"
+category: Malware Analysis
+homepage: "https://virusshare.com"

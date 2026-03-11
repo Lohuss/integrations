@@ -1,0 +1,5 @@
+id: Abuse_Finder
+name: "Abuse Finder"
+description: "Abuse Finder identifies abuse contacts for domain names, URLs, IP addresses, and email addresses, enabling rapid incident reporting and takedown requests"
+category: OSINT & Enrichment
+homepage: "https://github.com/certsocietegenerale/abuse_finder"
