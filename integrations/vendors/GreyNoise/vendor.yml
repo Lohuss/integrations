@@ -1,0 +1,10 @@
+id: GreyNoise
+name: GreyNoise
+description: Filter noise from IP observables. Determine if IPs are benign internet scanners or targeted threats to reduce
+  false positives in your cases
+category: Threat Intelligence
+tags:
+- ip-intelligence
+- noise-reduction
+- false-positive-reduction
+homepage: https://www.greynoise.io

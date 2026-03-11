@@ -1,0 +1,11 @@
+id: PhishTank
+name: PhishTank
+description: Verify URL observables against community-reported phishing sites. Confirm if URLs in your cases are part of known
+  phishing campaigns
+category: Phishing Intelligence
+tags:
+- phishing-detection
+- url-reputation
+- threat-intelligence
+- community-intelligence
+homepage: https://www.phishtank.com
