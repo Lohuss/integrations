@@ -1,10 +1,10 @@
 {
   "metadata": {
     "description": "Vendors sorted by visibility tier (high, medium, low), then alphabetically",
-    "totalVendors": 192,
+    "totalVendors": 187,
     "highCount": 0,
     "mediumCount": 0,
-    "lowCount": 192
+    "lowCount": 187
   },
   "high": [],
   "medium": [],
@@ -2377,32 +2377,6 @@
       }
     },
     {
-      "id": "Diario",
-      "name": "Diario",
-      "description": "",
-      "category": "",
-      "tags": [],
-      "homepage": "",
-      "logo": {},
-      "useCases": [],
-      "externalIntegrations": [],
-      "displayOnWebsite": true,
-      "visibility": 100,
-      "integrations": {
-        "analyzers": [],
-        "responders": [],
-        "functions": []
-      },
-      "stats": {
-        "totalAnalyzers": 0,
-        "totalResponders": 0,
-        "totalFunctions": 0,
-        "totalUseCases": 0,
-        "totalExternalIntegrations": 0,
-        "total": 0
-      }
-    },
-    {
       "id": "DNS-RPZ",
       "name": "DNS-RPZ",
       "description": "",
@@ -3752,32 +3726,6 @@
       }
     },
     {
-      "id": "Fortiguard",
-      "name": "Fortiguard",
-      "description": "",
-      "category": "",
-      "tags": [],
-      "homepage": "",
-      "logo": {},
-      "useCases": [],
-      "externalIntegrations": [],
-      "displayOnWebsite": true,
-      "visibility": 100,
-      "integrations": {
-        "analyzers": [],
-        "responders": [],
-        "functions": []
-      },
-      "stats": {
-        "totalAnalyzers": 0,
-        "totalResponders": 0,
-        "totalFunctions": 0,
-        "totalUseCases": 0,
-        "totalExternalIntegrations": 0,
-        "total": 0
-      }
-    },
-    {
       "id": "FoxIO",
       "name": "FoxIO",
       "description": "",
@@ -4951,32 +4899,6 @@
         "totalUseCases": 0,
         "totalExternalIntegrations": 0,
         "total": 1
-      }
-    },
-    {
-      "id": "Hippocampe",
-      "name": "Hippocampe",
-      "description": "",
-      "category": "",
-      "tags": [],
-      "homepage": "",
-      "logo": {},
-      "useCases": [],
-      "externalIntegrations": [],
-      "displayOnWebsite": true,
-      "visibility": 100,
-      "integrations": {
-        "analyzers": [],
-        "responders": [],
-        "functions": []
-      },
-      "stats": {
-        "totalAnalyzers": 0,
-        "totalResponders": 0,
-        "totalFunctions": 0,
-        "totalUseCases": 0,
-        "totalExternalIntegrations": 0,
-        "total": 0
       }
     },
     {
@@ -10897,32 +10819,6 @@
       }
     },
     {
-      "id": "TalosReputation",
-      "name": "TalosReputation",
-      "description": "",
-      "category": "",
-      "tags": [],
-      "homepage": "",
-      "logo": {},
-      "useCases": [],
-      "externalIntegrations": [],
-      "displayOnWebsite": true,
-      "visibility": 100,
-      "integrations": {
-        "analyzers": [],
-        "responders": [],
-        "functions": []
-      },
-      "stats": {
-        "totalAnalyzers": 0,
-        "totalResponders": 0,
-        "totalFunctions": 0,
-        "totalUseCases": 0,
-        "totalExternalIntegrations": 0,
-        "total": 0
-      }
-    },
-    {
       "id": "Telegram",
       "name": "Telegram",
       "description": "Telegram is a cloud-based messaging platform that enables real-time security alerts, incident notifications, and team collaboration during security operations with bot-based automation and secure communication channels",
@@ -11155,32 +11051,6 @@
         "totalUseCases": 0,
         "totalExternalIntegrations": 1,
         "total": 1
-      }
-    },
-    {
-      "id": "Threatcrowd",
-      "name": "Threatcrowd",
-      "description": "",
-      "category": "",
-      "tags": [],
-      "homepage": "",
-      "logo": {},
-      "useCases": [],
-      "externalIntegrations": [],
-      "displayOnWebsite": true,
-      "visibility": 100,
-      "integrations": {
-        "analyzers": [],
-        "responders": [],
-        "functions": []
-      },
-      "stats": {
-        "totalAnalyzers": 0,
-        "totalResponders": 0,
-        "totalFunctions": 0,
-        "totalUseCases": 0,
-        "totalExternalIntegrations": 0,
-        "total": 0
       }
     },
     {

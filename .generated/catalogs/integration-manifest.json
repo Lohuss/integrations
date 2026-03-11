@@ -2343,32 +2343,6 @@
       "total": 1
     }
   },
-  "Diario": {
-    "id": "Diario",
-    "name": "Diario",
-    "description": "",
-    "category": "",
-    "tags": [],
-    "homepage": "",
-    "logo": {},
-    "useCases": [],
-    "externalIntegrations": [],
-    "displayOnWebsite": true,
-    "visibility": 100,
-    "integrations": {
-      "analyzers": [],
-      "responders": [],
-      "functions": []
-    },
-    "stats": {
-      "totalAnalyzers": 0,
-      "totalResponders": 0,
-      "totalFunctions": 0,
-      "totalUseCases": 0,
-      "totalExternalIntegrations": 0,
-      "total": 0
-    }
-  },
   "DNS-RPZ": {
     "id": "DNS-RPZ",
     "name": "DNS-RPZ",
@@ -3718,32 +3692,6 @@
       "total": 1
     }
   },
-  "Fortiguard": {
-    "id": "Fortiguard",
-    "name": "Fortiguard",
-    "description": "",
-    "category": "",
-    "tags": [],
-    "homepage": "",
-    "logo": {},
-    "useCases": [],
-    "externalIntegrations": [],
-    "displayOnWebsite": true,
-    "visibility": 100,
-    "integrations": {
-      "analyzers": [],
-      "responders": [],
-      "functions": []
-    },
-    "stats": {
-      "totalAnalyzers": 0,
-      "totalResponders": 0,
-      "totalFunctions": 0,
-      "totalUseCases": 0,
-      "totalExternalIntegrations": 0,
-      "total": 0
-    }
-  },
   "FoxIO": {
     "id": "FoxIO",
     "name": "FoxIO",
@@ -4918,32 +4866,6 @@
       "totalUseCases": 0,
       "totalExternalIntegrations": 0,
       "total": 1
-    }
-  },
-  "Hippocampe": {
-    "id": "Hippocampe",
-    "name": "Hippocampe",
-    "description": "",
-    "category": "",
-    "tags": [],
-    "homepage": "",
-    "logo": {},
-    "useCases": [],
-    "externalIntegrations": [],
-    "displayOnWebsite": true,
-    "visibility": 100,
-    "integrations": {
-      "analyzers": [],
-      "responders": [],
-      "functions": []
-    },
-    "stats": {
-      "totalAnalyzers": 0,
-      "totalResponders": 0,
-      "totalFunctions": 0,
-      "totalUseCases": 0,
-      "totalExternalIntegrations": 0,
-      "total": 0
     }
   },
   "Hunterio": {
@@ -10841,32 +10763,6 @@
       "total": 1
     }
   },
-  "TalosReputation": {
-    "id": "TalosReputation",
-    "name": "TalosReputation",
-    "description": "",
-    "category": "",
-    "tags": [],
-    "homepage": "",
-    "logo": {},
-    "useCases": [],
-    "externalIntegrations": [],
-    "displayOnWebsite": true,
-    "visibility": 100,
-    "integrations": {
-      "analyzers": [],
-      "responders": [],
-      "functions": []
-    },
-    "stats": {
-      "totalAnalyzers": 0,
-      "totalResponders": 0,
-      "totalFunctions": 0,
-      "totalUseCases": 0,
-      "totalExternalIntegrations": 0,
-      "total": 0
-    }
-  },
   "TeamCymruMHR": {
     "id": "TeamCymruMHR",
     "name": "Malware Hash Registry (MHR)",
@@ -11145,32 +11041,6 @@
       "totalUseCases": 0,
       "totalExternalIntegrations": 1,
       "total": 1
-    }
-  },
-  "Threatcrowd": {
-    "id": "Threatcrowd",
-    "name": "Threatcrowd",
-    "description": "",
-    "category": "",
-    "tags": [],
-    "homepage": "",
-    "logo": {},
-    "useCases": [],
-    "externalIntegrations": [],
-    "displayOnWebsite": true,
-    "visibility": 100,
-    "integrations": {
-      "analyzers": [],
-      "responders": [],
-      "functions": []
-    },
-    "stats": {
-      "totalAnalyzers": 0,
-      "totalResponders": 0,
-      "totalFunctions": 0,
-      "totalUseCases": 0,
-      "totalExternalIntegrations": 0,
-      "total": 0
     }
   },
   "ThreatGrid": {

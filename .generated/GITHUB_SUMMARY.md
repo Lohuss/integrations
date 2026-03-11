@@ -2,7 +2,7 @@
 
 ## Statistics
 
-- **Total Vendors:** 192
+- **Total Vendors:** 187
 - **Total Analyzers:** 261
 - **Total Responders:** 140
 - **Total Functions:** 7
@@ -11,4 +11,10 @@
 
 ## Changes
 
-No changes detected.
+### Removed Vendors (5)
+
+- `Diario`
+- `Fortiguard`
+- `Hippocampe`
+- `TalosReputation`
+- `Threatcrowd`

@@ -17,7 +17,7 @@ Built something useful? Contributions are welcome!
 
 ## Summary Statistics
 
-- **Total Vendors:** 192
+- **Total Vendors:** 187
 - **Total Analyzers:** 261
 - **Total Responders:** 140
 - **Total Functions:** 7
@@ -247,8 +247,6 @@ Built something useful? Contributions are welcome!
 
 **[Cylance](vendors/Cylance/overview.md)** (1 integrations)
 
-**[Diario](vendors/Diario/overview.md)** (0 integrations)
-
 **[DNS-RPZ](vendors/DNS-RPZ/overview.md)** (1 integrations)
 
 **[DNSDB](vendors/DNSDB/overview.md)** (3 integrations)
@@ -289,8 +287,6 @@ Built something useful? Contributions are welcome!
 
 **[Forcepoint WebsensePing](vendors/ForcepointWebsensePing/overview.md)** (1 integrations)
 
-**[Fortiguard](vendors/Fortiguard/overview.md)** (0 integrations)
-
 **[FoxIO](vendors/FoxIO/overview.md)** (1 integrations)
 
 **[Gatewatcher CTI](vendors/Gatewatcher_CTI/overview.md)** (2 integrations)
@@ -308,8 +304,6 @@ Built something useful? Contributions are welcome!
 **[HarfangLab](vendors/HarfangLab/overview.md)** (31 integrations)
 
 **[Hashdd](vendors/Hashdd/overview.md)** (2 integrations)
-
-**[Hippocampe](vendors/Hippocampe/overview.md)** (0 integrations)
 
 **[IBM QRadar](vendors/IBMQRadar/overview.md)** (1 integrations)
 
@@ -433,13 +427,9 @@ Built something useful? Contributions are welcome!
 
 **[StopForumSpam](vendors/StopForumSpam/overview.md)** (1 integrations)
 
-**[TalosReputation](vendors/TalosReputation/overview.md)** (0 integrations)
-
 **[Test](vendors/Test/overview.md)** (2 integrations)
 
 **[TestAnalyzer](vendors/TestAnalyzer/overview.md)** (2 integrations)
-
-**[Threatcrowd](vendors/Threatcrowd/overview.md)** (0 integrations)
 
 **[ThreatGrid](vendors/ThreatGrid/overview.md)** (1 integrations)
 
@@ -537,7 +527,6 @@ Built something useful? Contributions are welcome!
 - **[CyberCrime-Tracker](vendors/CyberCrime-Tracker/overview.md)** - *Uncategorized* - 1 analyzers
 - **[Cyberprotect](vendors/Cyberprotect/overview.md)** - *Uncategorized* - 1 analyzers
 - **[Cylance](vendors/Cylance/overview.md)** - *Uncategorized* - 1 analyzers
-- **[Diario](vendors/Diario/overview.md)** - *Uncategorized* - No integrations
 - **[DNS-RPZ](vendors/DNS-RPZ/overview.md)** - *Uncategorized* - 1 responders
 - **[DNSDB](vendors/DNSDB/overview.md)** - *Uncategorized* - 3 analyzers
 - **[DNSdumpster](vendors/DNSdumpster/overview.md)** - *Uncategorized* - 1 analyzers
@@ -560,7 +549,6 @@ Built something useful? Contributions are welcome!
 - **[FireEye iSIGHT](vendors/FireEyeiSight/overview.md)** - *Uncategorized* - 1 analyzers
 - **[FireHOLBlocklists](vendors/FireHOLBlocklists/overview.md)** - *Uncategorized* - 1 analyzers
 - **[Forcepoint WebsensePing](vendors/ForcepointWebsensePing/overview.md)** - *Uncategorized* - 1 analyzers
-- **[Fortiguard](vendors/Fortiguard/overview.md)** - *Uncategorized* - No integrations
 - **[FoxIO](vendors/FoxIO/overview.md)** - *Uncategorized* - 1 analyzers
 - **[Gatewatcher CTI](vendors/Gatewatcher_CTI/overview.md)** - *Uncategorized* - 1 analyzers, 1 responders
 - **[Gmail](vendors/Gmail/overview.md)** - *Uncategorized* - 5 responders
@@ -573,7 +561,6 @@ Built something useful? Contributions are welcome!
 - **[HarfangLab](vendors/HarfangLab/overview.md)** - *Uncategorized* - 31 responders
 - **[Hashdd](vendors/Hashdd/overview.md)** - *Uncategorized* - 2 analyzers
 - **[Have I Been Pwned](vendors/HIBP/overview.md)** - *Breach Intelligence* - 1 analyzers
-- **[Hippocampe](vendors/Hippocampe/overview.md)** - *Uncategorized* - No integrations
 - **[Hunter.io](vendors/Hunterio/overview.md)** - *OSINT & Enrichment* - 1 analyzers
 - **[Hybrid Analysis](vendors/HybridAnalysis/overview.md)** - *Malware Analysis* - 1 analyzers
 - **[IBM QRadar](vendors/IBMQRadar/overview.md)** - *Uncategorized* - 1 responders
@@ -657,12 +644,10 @@ Built something useful? Contributions are welcome!
 - **[StamusNetworks](vendors/StamusNetworks/overview.md)** - *Uncategorized* - 1 analyzers
 - **[StaxxSearch](vendors/StaxxSearch/overview.md)** - *Uncategorized* - 1 analyzers
 - **[StopForumSpam](vendors/StopForumSpam/overview.md)** - *Uncategorized* - 1 analyzers
-- **[TalosReputation](vendors/TalosReputation/overview.md)** - *Uncategorized* - No integrations
 - **[Telegram](vendors/Telegram/overview.md)** - *Collaboration* - 1 responders
 - **[Test](vendors/Test/overview.md)** - *Uncategorized* - 2 responders
 - **[TestAnalyzer](vendors/TestAnalyzer/overview.md)** - *Uncategorized* - 2 analyzers
 - **[ThreatConnect](vendors/ThreatConnect/overview.md)** - *Threat Intelligence* - 1 external
-- **[Threatcrowd](vendors/Threatcrowd/overview.md)** - *Uncategorized* - No integrations
 - **[ThreatGrid](vendors/ThreatGrid/overview.md)** - *Uncategorized* - 1 analyzers
 - **[ThreatMiner](vendors/ThreatMiner/overview.md)** - *Uncategorized* - 1 analyzers
 - **[ThreatResponse](vendors/ThreatResponse/overview.md)** - *Uncategorized* - 1 analyzers
