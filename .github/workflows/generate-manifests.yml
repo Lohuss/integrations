@@ -496,6 +496,27 @@ jobs:
       - name: Generate documentation
         run: python scripts/generate-docs.py
 
+      - name: Validate generated files
+        run: |
+          errors=0
+          for f in $(find .generated -name '*.json' -type f); do
+            if ! python -c "import json; json.load(open('$f'))" 2>/dev/null; then
+              echo "::error::Invalid JSON: $f"
+              errors=$((errors + 1))
+            fi
+          done
+          for f in $(find .generated -name '*.yml' -o -name '*.yaml' -type f); do
+            if ! python -c "import yaml; yaml.safe_load(open('$f'))" 2>/dev/null; then
+              echo "::error::Invalid YAML: $f"
+              errors=$((errors + 1))
+            fi
+          done
+          if [ $errors -gt 0 ]; then
+            echo "::error::$errors invalid file(s) found"
+            exit 1
+          fi
+          echo "All generated JSON/YAML files are valid"
+
       - name: Check for changes
         id: git-check
         run: |
