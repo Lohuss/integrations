@@ -1,0 +1,47 @@
+{
+  "id": "CIRCLPassiveSSL",
+  "name": "CIRCL Passive SSL",
+  "description": "",
+  "category": "",
+  "tags": [],
+  "homepage": "",
+  "logo": {},
+  "useCases": [],
+  "externalIntegrations": [],
+  "displayOnWebsite": true,
+  "visibility": "low",
+  "registration_required": true,
+  "subscription_required": true,
+  "free_subscription": true,
+  "integrations": {
+    "analyzers": [
+      {
+        "name": "CIRCLPassiveSSL",
+        "version": "2.0",
+        "author": "Nils Kuhnert, CERT-Bund",
+        "license": "AGPL-V3",
+        "description": "Check CIRCL's Passive SSL for a given IP address or a X509 certificate hash.",
+        "dataTypes": [
+          "ip",
+          "certificate_hash",
+          "hash"
+        ],
+        "file": ".upstream/cortex/analyzers/CIRCLPassiveSSL/CIRCLPassiveSSL.json",
+        "url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/analyzers/CIRCLPassiveSSL/CIRCLPassiveSSL.json",
+        "github_url": "https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/analyzers/CIRCLPassiveSSL/CIRCLPassiveSSL.json",
+        "upstream_url": "https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/CIRCLPassiveSSL/CIRCLPassiveSSL.json",
+        "integration_type": null
+      }
+    ],
+    "responders": [],
+    "functions": []
+  },
+  "stats": {
+    "totalAnalyzers": 1,
+    "totalResponders": 0,
+    "totalFunctions": 0,
+    "totalUseCases": 0,
+    "totalExternalIntegrations": 0,
+    "total": 1
+  }
+}

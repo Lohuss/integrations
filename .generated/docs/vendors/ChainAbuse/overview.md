@@ -1,0 +1,9 @@
+## Analyzers (1)
+
+### ChainAbuse `v1.1`
+Check crypto address against reported abuse cases on ChainAbuse
+
+- **Author:** Peter Juhas; Fabien Bloume, StrangeBee
+- **License:** AGPL-V3
+- **Data Types:** `crypto_address`, `btc_address`
+- **Configuration:** [View config](https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/ChainAbuse/ChainAbuse.json)

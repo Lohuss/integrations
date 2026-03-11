@@ -1,0 +1,9 @@
+## Analyzers (1)
+
+### Crt_sh_Transparency_Logs `v1.0`
+Query domains against the certificate transparency lists available at crt.sh.
+
+- **Author:** crackytsi
+- **License:** AGPL-V3
+- **Data Types:** `domain`
+- **Configuration:** [View config](https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/Crtsh/Crtsh.json)

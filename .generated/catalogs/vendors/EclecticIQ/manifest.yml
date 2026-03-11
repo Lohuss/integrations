@@ -1,0 +1,65 @@
+# AUTO-GENERATED - DO NOT EDIT
+# Edit vendor.yml for vendor metadata, then re-run the generator
+
+id: EclecticIQ
+name: EclecticIQ
+description: ''
+category: ''
+tags: []
+homepage: ''
+logo: {}
+useCases: []
+externalIntegrations: []
+displayOnWebsite: true
+visibility: low
+registration_required: true
+subscription_required: true
+free_subscription: false
+integrations:
+  analyzers:
+  - name: EclecticIQ_SearchObservable
+    version: '2.0'
+    author: BW
+    license: AGPL-V3
+    description: Query EclecticIQ Intelligence Center for a specific observable.
+    dataTypes:
+    - domain
+    - ip
+    - url
+    - fqdn
+    - uri_path
+    - user-agent
+    - hash
+    - mail
+    - mail_subject
+    - registry
+    - regexp
+    - other
+    - filename
+    file: .upstream/cortex/analyzers/EclecticIQ/EclecticIQ_SearchObservable.json
+    url: https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/analyzers/EclecticIQ/EclecticIQ_SearchObservable.json
+    github_url: https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/analyzers/EclecticIQ/EclecticIQ_SearchObservable.json
+    upstream_url: https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/EclecticIQ/EclecticIQ_SearchObservable.json
+    integration_type: null
+  responders:
+  - name: EclecticIQ_Indicator_API
+    version: '1.0'
+    author: EclecticIQ
+    license: MIT
+    description: Submit indicators to the EclecticIQ Intelligence Center api
+    dataTypes:
+    - thehive:case_artifact
+    - thehive:case
+    file: .upstream/cortex/responders/EclecticIQ/EclecticIQIndicator.json
+    url: https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/responders/EclecticIQ/EclecticIQIndicator.json
+    github_url: https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/responders/EclecticIQ/EclecticIQIndicator.json
+    upstream_url: https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/responders/EclecticIQ/EclecticIQIndicator.json
+    integration_type: null
+  functions: []
+stats:
+  totalAnalyzers: 1
+  totalResponders: 1
+  totalFunctions: 0
+  totalUseCases: 0
+  totalExternalIntegrations: 0
+  total: 2

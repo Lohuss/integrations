@@ -1,0 +1,38 @@
+# AUTO-GENERATED - DO NOT EDIT
+# Edit vendor.yml for vendor metadata, then re-run the generator
+
+id: WOT
+name: WOT
+description: ''
+category: ''
+tags: []
+homepage: ''
+logo: {}
+useCases: []
+externalIntegrations: []
+displayOnWebsite: true
+visibility: low
+integrations:
+  analyzers:
+  - name: WOT_Lookup
+    version: '2.0'
+    author: Andrea Garavaglia, Davide Arcuri, LDO-CERT
+    license: AGPL-V3
+    description: Use Web of Trust to check a domain's reputation.
+    dataTypes:
+    - domain
+    - fqdn
+    file: .upstream/cortex/analyzers/WOT/WOT_lookup.json
+    url: https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/analyzers/WOT/WOT_lookup.json
+    github_url: https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/analyzers/WOT/WOT_lookup.json
+    upstream_url: https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/WOT/WOT_lookup.json
+    integration_type: null
+  responders: []
+  functions: []
+stats:
+  totalAnalyzers: 1
+  totalResponders: 0
+  totalFunctions: 0
+  totalUseCases: 0
+  totalExternalIntegrations: 0
+  total: 1

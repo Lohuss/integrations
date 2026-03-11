@@ -1,0 +1,49 @@
+# AUTO-GENERATED - DO NOT EDIT
+# Edit vendor.yml for vendor metadata, then re-run the generator
+
+id: SecurityTrails
+name: SecurityTrails
+description: ''
+category: ''
+tags: []
+homepage: ''
+logo: {}
+useCases: []
+externalIntegrations: []
+displayOnWebsite: true
+visibility: low
+integrations:
+  analyzers:
+  - name: SecurityTrails_Whois
+    version: '1.0'
+    author: Manabu Niseki, @ninoseki
+    license: MIT
+    description: SecurityTrails Whois Lookup.
+    dataTypes:
+    - domain
+    file: .upstream/cortex/analyzers/SecurityTrails/SecurityTrails_Whois.json
+    url: https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/analyzers/SecurityTrails/SecurityTrails_Whois.json
+    github_url: https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/analyzers/SecurityTrails/SecurityTrails_Whois.json
+    upstream_url: https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/SecurityTrails/SecurityTrails_Whois.json
+    integration_type: null
+  - name: SecurityTrails_Passive_DNS
+    version: '1.0'
+    author: Manabu Niseki, @ninoseki
+    license: MIT
+    description: SecurityTrails Passive DNS Lookup.
+    dataTypes:
+    - ip
+    file: .upstream/cortex/analyzers/SecurityTrails/SecurityTrails_Passive_DNS.json
+    url: https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/analyzers/SecurityTrails/SecurityTrails_Passive_DNS.json
+    github_url: https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/analyzers/SecurityTrails/SecurityTrails_Passive_DNS.json
+    upstream_url: https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/SecurityTrails/SecurityTrails_Passive_DNS.json
+    integration_type: null
+  responders: []
+  functions: []
+stats:
+  totalAnalyzers: 2
+  totalResponders: 0
+  totalFunctions: 0
+  totalUseCases: 0
+  totalExternalIntegrations: 0
+  total: 2

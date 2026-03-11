@@ -1,0 +1,25 @@
+# AUTO-GENERATED - DO NOT EDIT
+# Edit vendor.yml for vendor metadata, then re-run the generator
+
+id: Fortiguard
+name: Fortiguard
+description: ''
+category: ''
+tags: []
+homepage: ''
+logo: {}
+useCases: []
+externalIntegrations: []
+displayOnWebsite: true
+visibility: low
+integrations:
+  analyzers: []
+  responders: []
+  functions: []
+stats:
+  totalAnalyzers: 0
+  totalResponders: 0
+  totalFunctions: 0
+  totalUseCases: 0
+  totalExternalIntegrations: 0
+  total: 0

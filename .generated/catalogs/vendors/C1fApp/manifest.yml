@@ -1,0 +1,40 @@
+# AUTO-GENERATED - DO NOT EDIT
+# Edit vendor.yml for vendor metadata, then re-run the generator
+
+id: C1fApp
+name: C1fApp
+description: ''
+category: ''
+tags: []
+homepage: ''
+logo: {}
+useCases: []
+externalIntegrations: []
+displayOnWebsite: true
+visibility: low
+integrations:
+  analyzers:
+  - name: C1fApp
+    version: '1.0'
+    author: etz69
+    license: AGPL-V3
+    description: Query C1fApp OSINT Aggregator for IPs, domains and URLs
+    dataTypes:
+    - url
+    - domain
+    - fqdn
+    - ip
+    file: .upstream/cortex/analyzers/C1fApp/C1fApp_osint.json
+    url: https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/analyzers/C1fApp/C1fApp_osint.json
+    github_url: https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/analyzers/C1fApp/C1fApp_osint.json
+    upstream_url: https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/C1fApp/C1fApp_osint.json
+    integration_type: null
+  responders: []
+  functions: []
+stats:
+  totalAnalyzers: 1
+  totalResponders: 0
+  totalFunctions: 0
+  totalUseCases: 0
+  totalExternalIntegrations: 0
+  total: 1

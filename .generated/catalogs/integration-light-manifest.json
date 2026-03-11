@@ -1,0 +1,4919 @@
+{
+  "Abuse_Finder": {
+    "id": "Abuse_Finder",
+    "name": "Abuse Finder",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Abuse_Finder/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "AbuseIPDB": {
+    "id": "AbuseIPDB",
+    "name": "AbuseIPDB",
+    "description": "AbuseIPDB is a crowdsourced IP reputation database that helps identify and track malicious IPs involved in attacks, providing confidence scores and abuse reports for rapid threat assessment and blocking decisions",
+    "category": [
+      "Threat Intelligence"
+    ],
+    "tags": [
+      "ip-reputation",
+      "threat-detection",
+      "abuse-tracking",
+      "blacklist",
+      "incident-response"
+    ],
+    "homepage": "https://www.abuseipdb.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/AbuseIPDB/assets/logo.svg",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/AbuseIPDB/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "AILOnionLookup": {
+    "id": "AILOnionLookup",
+    "name": "AIL Onion-Lookup",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/AILOnionLookup/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Airtable": {
+    "id": "Airtable",
+    "name": "Airtable",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Airtable/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 0,
+      "totalFunctions": 1,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "AMPforEndpoints": {
+    "id": "AMPforEndpoints",
+    "name": "Cisco Secure Endpoint (Formerly AMP for Endpoints)",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/AMPforEndpoints/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 5,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 5
+    }
+  },
+  "AnyRun": {
+    "id": "AnyRun",
+    "name": "AnyRun",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/AnyRun/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Autofocus": {
+    "id": "Autofocus",
+    "name": "Autofocus",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Autofocus/overview.md",
+    "stats": {
+      "totalAnalyzers": 3,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 3
+    }
+  },
+  "AWSLambda": {
+    "id": "AWSLambda",
+    "name": "AWSLambda",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/AWSLambda/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "AWX": {
+    "id": "AWX",
+    "name": "AWX",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/AWX/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Axur": {
+    "id": "Axur",
+    "name": "Axur",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Axur/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "BackscatterIO": {
+    "id": "BackscatterIO",
+    "name": "BackscatterIO",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/BackscatterIO/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "BinalyzeAIR": {
+    "id": "BinalyzeAIR",
+    "name": "BinalyzeAIR",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/BinalyzeAIR/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 2,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "C1fApp": {
+    "id": "C1fApp",
+    "name": "C1fApp",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/C1fApp/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Capa": {
+    "id": "Capa",
+    "name": "CAPA",
+    "description": "CAPA (FLARE Capability Analysis) is a malware analysis tool that automatically identifies malware capabilities and behaviors by detecting common techniques and functions, helping analysts quickly understand what malware can do during reverse engineering and incident response",
+    "category": [
+      "Malware Analysis"
+    ],
+    "tags": [
+      "malware-analysis",
+      "capability-detection",
+      "reverse-engineering",
+      "behavior-analysis",
+      "incident-response"
+    ],
+    "homepage": "https://github.com/mandiant/capa",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Capa/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Capa/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Censys": {
+    "id": "Censys",
+    "name": "Censys",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Censys/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "CERTatPassiveDNS": {
+    "id": "CERTatPassiveDNS",
+    "name": "CERTatPassiveDNS",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/CERTatPassiveDNS/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "ChainAbuse": {
+    "id": "ChainAbuse",
+    "name": "ChainAbuse",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/ChainAbuse/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "CheckPhish": {
+    "id": "CheckPhish",
+    "name": "CheckPhish",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/CheckPhish/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "CheckPoint": {
+    "id": "CheckPoint",
+    "name": "CheckPoint",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/CheckPoint/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 2,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "CIRCLHashlookup": {
+    "id": "CIRCLHashlookup",
+    "name": "CIRCL Hash Lookup",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/CIRCLHashlookup/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "CIRCLPassiveDNS": {
+    "id": "CIRCLPassiveDNS",
+    "name": "CIRCL Passive DNS",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/CIRCLPassiveDNS/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "CIRCLPassiveSSL": {
+    "id": "CIRCLPassiveSSL",
+    "name": "CIRCL Passive SSL",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/CIRCLPassiveSSL/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "CIRCLVulnerabilityLookup": {
+    "id": "CIRCLVulnerabilityLookup",
+    "name": "CIRCL Vulnerability-Lookup",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/CIRCLVulnerabilityLookup/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "CiscoUmbrella": {
+    "id": "CiscoUmbrella",
+    "name": "CiscoUmbrella",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/CiscoUmbrella/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "CISMCAP": {
+    "id": "CISMCAP",
+    "name": "CISMCAP",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/CISMCAP/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "ClamAV": {
+    "id": "ClamAV",
+    "name": "ClamAV",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/ClamAV/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Cloudflare": {
+    "id": "Cloudflare",
+    "name": "Cloudflare",
+    "description": "",
+    "category": [
+      "Web Application Firewall"
+    ],
+    "tags": [],
+    "homepage": "https://www.cloudflare.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Cloudflare/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Cloudflare/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Cluster25": {
+    "id": "Cluster25",
+    "name": "Cluster25",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Cluster25/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "ClusterHawk": {
+    "id": "ClusterHawk",
+    "name": "ClusterHawk",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/ClusterHawk/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "CortexXSOAR": {
+    "id": "CortexXSOAR",
+    "name": "PAN Cortex XSOAR",
+    "description": "Cortex XSOAR is Palo Alto Networks' SOAR platform that enables security teams to automate incident response workflows, orchestrate security tools, and accelerate threat investigation and remediation",
+    "category": [
+      "SOAR & Automation"
+    ],
+    "tags": [
+      "automation",
+      "workflow-orchestration"
+    ],
+    "homepage": "https://www.paloaltonetworks.com/cortex/cortex-xsoar",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/CortexXSOAR/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 1,
+      "total": 1
+    }
+  },
+  "Crowdsec": {
+    "id": "Crowdsec",
+    "name": "CrowdSec",
+    "description": "CrowdSec is a collaborative security platform that aggregates attack data from community-deployed sensors to identify malicious IPs and attack patterns, enabling real-time blocking decisions and threat intelligence sharing for collective defense",
+    "category": [
+      "Threat Intelligence"
+    ],
+    "tags": [
+      "threat-intelligence",
+      "collaborative-defense",
+      "ip-reputation",
+      "attack-detection",
+      "community-intelligence"
+    ],
+    "homepage": "https://www.crowdsec.net",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Crowdsec/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Crowdsec/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "CrowdstrikeFalcon": {
+    "id": "CrowdstrikeFalcon",
+    "name": "CrowdStrike Falcon",
+    "description": "CrowdStrike Falcon is a cloud-native endpoint protection platform that provides real-time threat detection, prevention, and response capabilities",
+    "category": [
+      "EDR"
+    ],
+    "tags": [
+      "endpoint-protection",
+      "threat-detection",
+      "incident-response",
+      "cloud-native",
+      "edr"
+    ],
+    "homepage": "https://www.crowdstrike.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/CrowdstrikeFalcon/assets/logo.svg",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/CrowdstrikeFalcon/overview.md",
+    "stats": {
+      "totalAnalyzers": 11,
+      "totalResponders": 9,
+      "totalFunctions": 1,
+      "totalUseCases": 2,
+      "totalExternalIntegrations": 1,
+      "total": 22
+    }
+  },
+  "Crtsh": {
+    "id": "Crtsh",
+    "name": "Crtsh",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Crtsh/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "CuckooSandbox": {
+    "id": "CuckooSandbox",
+    "name": "CuckooSandbox",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/CuckooSandbox/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "CyberChef": {
+    "id": "CyberChef",
+    "name": "CyberChef",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/CyberChef/overview.md",
+    "stats": {
+      "totalAnalyzers": 3,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 3
+    }
+  },
+  "CyberCrime-Tracker": {
+    "id": "CyberCrime-Tracker",
+    "name": "CyberCrime-Tracker",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/CyberCrime-Tracker/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Cyberprotect": {
+    "id": "Cyberprotect",
+    "name": "Cyberprotect",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Cyberprotect/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Cylance": {
+    "id": "Cylance",
+    "name": "Cylance",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Cylance/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Diario": {
+    "id": "Diario",
+    "name": "Diario",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Diario/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 0
+    }
+  },
+  "DNS-RPZ": {
+    "id": "DNS-RPZ",
+    "name": "DNS-RPZ",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/DNS-RPZ/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "DNSDB": {
+    "id": "DNSDB",
+    "name": "DNSDB",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/DNSDB/overview.md",
+    "stats": {
+      "totalAnalyzers": 3,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 3
+    }
+  },
+  "DNSdumpster": {
+    "id": "DNSdumpster",
+    "name": "DNSdumpster",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/DNSdumpster/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "DNSLookingglass": {
+    "id": "DNSLookingglass",
+    "name": "DNSLookingglass",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/DNSLookingglass/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "DNSSinkhole": {
+    "id": "DNSSinkhole",
+    "name": "DNSSinkhole",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/DNSSinkhole/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "DomainMailSPFDMARC": {
+    "id": "DomainMailSPFDMARC",
+    "name": "Domain Mail SPF DMARC",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/DomainMailSPFDMARC/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "DomainTools": {
+    "id": "DomainTools",
+    "name": "DomainTools",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/DomainTools/overview.md",
+    "stats": {
+      "totalAnalyzers": 10,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 10
+    }
+  },
+  "DomainToolsIris": {
+    "id": "DomainToolsIris",
+    "name": "DomainTools Iris",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/DomainToolsIris/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 2,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 4
+    }
+  },
+  "DShield": {
+    "id": "DShield",
+    "name": "DShield",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/DShield/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Duo_Security": {
+    "id": "Duo_Security",
+    "name": "Duo Security",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Duo_Security/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 3,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 3
+    }
+  },
+  "EchoTrail": {
+    "id": "EchoTrail",
+    "name": "EchoTrail",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/EchoTrail/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "EclecticIQ": {
+    "id": "EclecticIQ",
+    "name": "EclecticIQ",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/EclecticIQ/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "Elasticsearch": {
+    "id": "Elasticsearch",
+    "name": "Elasticsearch",
+    "description": "Elasticsearch is a distributed search and analytics engine that powers SIEM solutions and log analysis platforms, enabling analysts to query and correlate security events, logs, and threat data across enterprise infrastructure during incident investigations",
+    "category": [
+      "SIEM & Analytics"
+    ],
+    "tags": [
+      "siem",
+      "log-analysis",
+      "search-analytics",
+      "event-correlation",
+      "threat-hunting"
+    ],
+    "homepage": "https://www.elastic.co",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Elasticsearch/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Elasticsearch/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 1,
+      "total": 2
+    }
+  },
+  "EmailRep": {
+    "id": "EmailRep",
+    "name": "EmailRep",
+    "description": "EmailRep analyzes email addresses to detect disposable emails, spam sources, and malicious senders by providing reputation scores and threat intelligence, helping analysts assess email-based threats during investigations",
+    "category": [
+      "Threat Intelligence"
+    ],
+    "tags": [
+      "email-reputation",
+      "threat-detection",
+      "spam-detection",
+      "email-analysis",
+      "incident-response"
+    ],
+    "homepage": "https://emailrep.io",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/EmailRep/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/EmailRep/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "EmergingThreats": {
+    "id": "EmergingThreats",
+    "name": "EmergingThreats",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/EmergingThreats/overview.md",
+    "stats": {
+      "totalAnalyzers": 3,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 3
+    }
+  },
+  "EmlParser": {
+    "id": "EmlParser",
+    "name": "EmlParser",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/EmlParser/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "FalconCustomIOC": {
+    "id": "FalconCustomIOC",
+    "name": "FalconCustomIOC",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/FalconCustomIOC/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 2,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "FalconSandbox": {
+    "id": "FalconSandbox",
+    "name": "FalconSandbox",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/FalconSandbox/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "FileInfo": {
+    "id": "FileInfo",
+    "name": "FileInfo",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/FileInfo/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "FireEyeiSight": {
+    "id": "FireEyeiSight",
+    "name": "FireEye iSIGHT",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/FireEyeiSight/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "FireHOLBlocklists": {
+    "id": "FireHOLBlocklists",
+    "name": "FireHOLBlocklists",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/FireHOLBlocklists/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "ForcepointWebsensePing": {
+    "id": "ForcepointWebsensePing",
+    "name": "Forcepoint WebsensePing",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/ForcepointWebsensePing/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Fortiguard": {
+    "id": "Fortiguard",
+    "name": "Fortiguard",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Fortiguard/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 0
+    }
+  },
+  "FoxIO": {
+    "id": "FoxIO",
+    "name": "FoxIO",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/FoxIO/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Gatewatcher_CTI": {
+    "id": "Gatewatcher_CTI",
+    "name": "Gatewatcher CTI",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Gatewatcher_CTI/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "Gmail": {
+    "id": "Gmail",
+    "name": "Gmail",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Gmail/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 5,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 5
+    }
+  },
+  "GoogleDNS": {
+    "id": "GoogleDNS",
+    "name": "GoogleDNS",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/GoogleDNS/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "GoogleSafebrowsing": {
+    "id": "GoogleSafebrowsing",
+    "name": "Google Safe Browsing",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/GoogleSafebrowsing/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "GoogleThreatIntelligence": {
+    "id": "GoogleThreatIntelligence",
+    "name": "Google Threat Intelligence",
+    "description": "Google Threat Intelligence (formerly VirusTotal) provides comprehensive malware analysis, threat intelligence, and file/URL/domain reputation data from 70+ security engines, enabling rapid threat assessment and IOC validation during investigations",
+    "category": [
+      "Threat Intelligence"
+    ],
+    "tags": [
+      "threat-intelligence",
+      "malware-analysis",
+      "file-analysis",
+      "url-analysis",
+      "multi-scanner",
+      "ioc-validation",
+      "incident-response"
+    ],
+    "homepage": "https://threatlabs.google.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/GoogleThreatIntelligence/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/GoogleThreatIntelligence/overview.md",
+    "stats": {
+      "totalAnalyzers": 5,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 5
+    }
+  },
+  "GoogleVisionAPI": {
+    "id": "GoogleVisionAPI",
+    "name": "Google Vision API",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/GoogleVisionAPI/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "GreyNoise": {
+    "id": "GreyNoise",
+    "name": "GreyNoise",
+    "description": "Filter noise from IP observables. Determine if IPs are benign internet scanners or targeted threats to reduce false positives in your cases",
+    "category": [
+      "Threat Intelligence"
+    ],
+    "tags": [
+      "ip-intelligence",
+      "noise-reduction",
+      "false-positive-reduction"
+    ],
+    "homepage": "https://www.greynoise.io",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/GreyNoise/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/GreyNoise/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "GRR": {
+    "id": "GRR",
+    "name": "GRR",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/GRR/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "HarfangLab": {
+    "id": "HarfangLab",
+    "name": "HarfangLab",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/HarfangLab/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 31,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 31
+    }
+  },
+  "Hashdd": {
+    "id": "Hashdd",
+    "name": "Hashdd",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Hashdd/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "HIBP": {
+    "id": "HIBP",
+    "name": "Have I Been Pwned",
+    "description": "Have I Been Pwned tracks billions of compromised credentials from data breaches, allowing analysts to verify if emails or passwords have been exposed in known breaches during security investigations and incident response",
+    "category": [
+      "Breach Intelligence"
+    ],
+    "tags": [
+      "data-breach",
+      "credential-exposure",
+      "breach-intelligence",
+      "identity-compromise",
+      "incident-response"
+    ],
+    "homepage": "https://haveibeenpwned.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/HIBP/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/HIBP/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Hippocampe": {
+    "id": "Hippocampe",
+    "name": "Hippocampe",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Hippocampe/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 0
+    }
+  },
+  "Hunterio": {
+    "id": "Hunterio",
+    "name": "Hunter.io",
+    "description": "Hunter.io discovers and verifies email addresses associated with domains, enabling investigators to identify organizational contacts, validate email authenticity, and map corporate infrastructure during threat intelligence gathering",
+    "category": [
+      "OSINT & Enrichment"
+    ],
+    "tags": [
+      "email-discovery",
+      "email-verification",
+      "osint",
+      "reconnaissance",
+      "incident-response"
+    ],
+    "homepage": "https://hunter.io",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Hunterio/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Hunterio/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "HybridAnalysis": {
+    "id": "HybridAnalysis",
+    "name": "Hybrid Analysis",
+    "description": "Hybrid Analysis (Falcon Sandbox) is a free malware analysis service powered by CrowdStrike that executes suspicious files in sandbox environments, providing detailed behavioral analysis, IOCs, and threat intelligence for malware investigations",
+    "category": [
+      "Malware Analysis"
+    ],
+    "tags": [
+      "malware-analysis",
+      "sandbox",
+      "behavioral-analysis",
+      "threat-intelligence",
+      "incident-response"
+    ],
+    "homepage": "https://www.hybrid-analysis.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/HybridAnalysis/assets/logo.ico",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/HybridAnalysis/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "IBMQRadar": {
+    "id": "IBMQRadar",
+    "name": "IBM QRadar",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/IBMQRadar/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "IBMXForce": {
+    "id": "IBMXForce",
+    "name": "IBM X-Force",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/IBMXForce/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Inoitsu": {
+    "id": "Inoitsu",
+    "name": "Inoitsu",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Inoitsu/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "InsightConnect": {
+    "id": "InsightConnect",
+    "name": "Rapid7 InsightConnect",
+    "description": "Rapid7 InsightConnect is a security orchestration and automation platform that enables security teams to automate workflows, connect security tools, and accelerate incident response through pre-built integrations and custom automation",
+    "category": [
+      "SOAR & Automation"
+    ],
+    "tags": [
+      "automation",
+      "workflow-orchestration",
+      "security-automation"
+    ],
+    "homepage": "https://www.rapid7.com/products/insightconnect/",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/InsightConnect/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/InsightConnect/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 1,
+      "total": 1
+    }
+  },
+  "IntezerCommunity": {
+    "id": "IntezerCommunity",
+    "name": "IntezerCommunity",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/IntezerCommunity/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Investigate": {
+    "id": "Investigate",
+    "name": "Investigate",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Investigate/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "IP-API": {
+    "id": "IP-API",
+    "name": "IP-API",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/IP-API/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "IPinfo": {
+    "id": "IPinfo",
+    "name": "IPinfo",
+    "description": "IPinfo provides comprehensive IP address intelligence including geolocation, ASN ownership, company details, and hosted domains, enabling analysts to quickly profile network infrastructure and identify suspicious connections",
+    "category": [
+      "OSINT & Enrichment"
+    ],
+    "tags": [
+      "ip-intelligence",
+      "geolocation",
+      "asn-lookup",
+      "network-intelligence",
+      "incident-response"
+    ],
+    "homepage": "https://ipinfo.io",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/IPinfo/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/IPinfo/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "IPVoid": {
+    "id": "IPVoid",
+    "name": "IPVoid",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/IPVoid/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "isMalicious": {
+    "id": "isMalicious",
+    "name": "isMalicious",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/isMalicious/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "IVRE": {
+    "id": "IVRE",
+    "name": "IVRE",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/IVRE/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "JAMFProtect": {
+    "id": "JAMFProtect",
+    "name": "JAMFProtect",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/JAMFProtect/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 2,
+      "totalFunctions": 1,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 3
+    }
+  },
+  "JIRA": {
+    "id": "JIRA",
+    "name": "JIRA",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/JIRA/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 0,
+      "totalFunctions": 1,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "JoeSandbox": {
+    "id": "JoeSandbox",
+    "name": "Joe Sandbox",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/JoeSandbox/overview.md",
+    "stats": {
+      "totalAnalyzers": 3,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 3
+    }
+  },
+  "Jupyter": {
+    "id": "Jupyter",
+    "name": "Jupyter",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Jupyter/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "KasperskyTIP": {
+    "id": "KasperskyTIP",
+    "name": "Kaspersky TIP",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/KasperskyTIP/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "KnowBe4": {
+    "id": "KnowBe4",
+    "name": "KnowBe4",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/KnowBe4/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "LdapQuery": {
+    "id": "LdapQuery",
+    "name": "LdapQuery",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/LdapQuery/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Lookyloo": {
+    "id": "Lookyloo",
+    "name": "Lookyloo",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Lookyloo/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "LupovisProwl": {
+    "id": "LupovisProwl",
+    "name": "LupovisProwl",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/LupovisProwl/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Mailer": {
+    "id": "Mailer",
+    "name": "Mailer",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Mailer/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "MailIncidentStatus": {
+    "id": "MailIncidentStatus",
+    "name": "MailIncidentStatus",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/MailIncidentStatus/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Malpedia": {
+    "id": "Malpedia",
+    "name": "Malpedia",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Malpedia/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Maltiverse": {
+    "id": "Maltiverse",
+    "name": "Maltiverse",
+    "description": "Maltiverse is a threat intelligence platform that aggregates and enriches IOCs from multiple sources, providing contextualized intelligence on IPs, domains, URLs, and files to accelerate threat hunting and incident response",
+    "category": [
+      "Threat Intelligence"
+    ],
+    "tags": [
+      "threat-intelligence",
+      "ioc-enrichment",
+      "threat-hunting",
+      "contextualized-intelligence",
+      "incident-response"
+    ],
+    "homepage": "https://www.maltiverse.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Maltiverse/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Maltiverse/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "MalwareBazaar": {
+    "id": "MalwareBazaar",
+    "name": "MalwareBazaar",
+    "description": "MalwareBazaar by Abuse.ch is a community-driven malware sample repository that enables analysts to query, download, and share malware samples with hash-based lookups for rapid threat identification and malware family correlation",
+    "category": [
+      "Threat Intelligence"
+    ],
+    "tags": [
+      "malware-repository",
+      "malware-samples",
+      "threat-intelligence",
+      "hash-lookup",
+      "incident-response"
+    ],
+    "homepage": "https://bazaar.abuse.ch",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/MalwareBazaar/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/MalwareBazaar/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "MalwareClustering": {
+    "id": "MalwareClustering",
+    "name": "MalwareClustering",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/MalwareClustering/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Malwares": {
+    "id": "Malwares",
+    "name": "Malwares",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Malwares/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "MaxMind": {
+    "id": "MaxMind",
+    "name": "MaxMind",
+    "description": "MaxMind provides geolocation and network intelligence data that maps IP addresses to geographic locations, ISPs, and network types, enabling analysts to identify attack origins and detect anomalous access patterns during investigations",
+    "category": [
+      "OSINT & Enrichment"
+    ],
+    "tags": [
+      "geolocation",
+      "ip-intelligence",
+      "network-intelligence",
+      "threat-detection",
+      "incident-response"
+    ],
+    "homepage": "https://www.maxmind.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/MaxMind/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/MaxMind/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "MetaDefender": {
+    "id": "MetaDefender",
+    "name": "MetaDefender",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/MetaDefender/overview.md",
+    "stats": {
+      "totalAnalyzers": 5,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 5
+    }
+  },
+  "Minemeld": {
+    "id": "Minemeld",
+    "name": "Minemeld",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Minemeld/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "MISP": {
+    "id": "MISP",
+    "name": "MISP",
+    "description": "MISP is an open-source threat intelligence platform for sharing, storing and correlating Indicators of Compromise (IOCs) and threat intelligence data, enabling collaborative defense and rapid incident response",
+    "category": [
+      "Threat Intelligence"
+    ],
+    "tags": [
+      "threat-intelligence",
+      "ioc-sharing",
+      "incident-response",
+      "threat-sharing",
+      "collaborative-defense"
+    ],
+    "homepage": "https://www.misp-project.org",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/MISP/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/MISP/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "MISPWarningLists": {
+    "id": "MISPWarningLists",
+    "name": "MISP Warning Lists",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/MISPWarningLists/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "MnemonicPDNS": {
+    "id": "MnemonicPDNS",
+    "name": "Mnemonic Passive DNS",
+    "description": "Mnemonic Passive DNS provides historical DNS resolution data that helps analysts track domain infrastructure changes, identify malicious domain rotation patterns, and investigate threat actor infrastructure during incident investigations",
+    "category": [
+      "OSINT & Enrichment"
+    ],
+    "tags": [
+      "passive-dns",
+      "dns-intelligence",
+      "infrastructure-tracking",
+      "threat-hunting",
+      "incident-response"
+    ],
+    "homepage": "https://www.mnemonic.no",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/MnemonicPDNS/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/MnemonicPDNS/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "MSDefenderEndpoints": {
+    "id": "MSDefenderEndpoints",
+    "name": "Microsoft Defender for Endpoint",
+    "description": "Microsoft Defender for Endpoint is an enterprise EDR platform that provides threat detection, investigation, and automated response capabilities across Windows, macOS, Linux, iOS, and Android devices for comprehensive endpoint security",
+    "category": [
+      "EDR"
+    ],
+    "tags": [
+      "edr",
+      "endpoint-protection",
+      "threat-detection",
+      "automated-response",
+      "incident-response",
+      "microsoft"
+    ],
+    "homepage": "https://www.microsoft.com/security/business/endpoint-security/microsoft-defender-endpoint",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/MSDefenderEndpoints/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/MSDefenderEndpoints/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 12,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 12
+    }
+  },
+  "MSDefenderOffice365": {
+    "id": "MSDefenderOffice365",
+    "name": "Microsoft Defender for Office 365",
+    "description": "Microsoft Defender for Office 365 provides advanced threat protection for email and collaboration tools, detecting phishing, malware, and business email compromise attempts with automated investigation and response capabilities",
+    "category": [
+      "Email Security"
+    ],
+    "tags": [
+      "email-security",
+      "phishing-protection",
+      "malware-detection",
+      "threat-protection",
+      "incident-response",
+      "microsoft"
+    ],
+    "homepage": "https://www.microsoft.com/security/business/threat-protection/office-365-defender",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/MSDefenderOffice365/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/MSDefenderOffice365/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 4,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 5
+    }
+  },
+  "MSEntraID": {
+    "id": "MSEntraID",
+    "name": "Microsoft Entra ID",
+    "description": "Microsoft Entra ID (formerly Azure Active Directory) is an enterprise identity and access management platform that provides user authentication data, sign-in logs, and security insights to investigate account compromises, suspicious access patterns, and identity-based attacks",
+    "category": [
+      "Identity & Access Management"
+    ],
+    "tags": [
+      "identity-management",
+      "authentication",
+      "access-control",
+      "user-activity",
+      "sign-in-logs",
+      "account-security",
+      "incident-response"
+    ],
+    "homepage": "https://www.microsoft.com/security/business/identity-access/microsoft-entra-id",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/MSEntraID/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/MSEntraID/overview.md",
+    "stats": {
+      "totalAnalyzers": 4,
+      "totalResponders": 5,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 9
+    }
+  },
+  "MsgParser": {
+    "id": "MsgParser",
+    "name": "MsgParser",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/MsgParser/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "n8n": {
+    "id": "n8n",
+    "name": "n8n",
+    "description": "n8n is a low-code/no-code workflow automation platform that enables technical teams to build, deploy, and manage complex automated workflows.",
+    "category": [
+      "SOAR & Automation"
+    ],
+    "tags": [
+      "automation",
+      "workflow-orchestration",
+      "open-source"
+    ],
+    "homepage": "https://n8n.io",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/n8n/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/n8n/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 1,
+      "total": 2
+    }
+  },
+  "NERD": {
+    "id": "NERD",
+    "name": "NERD",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/NERD/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Nessus": {
+    "id": "Nessus",
+    "name": "Nessus",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Nessus/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Netcraft": {
+    "id": "Netcraft",
+    "name": "Netcraft",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Netcraft/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "NSRL": {
+    "id": "NSRL",
+    "name": "NSRL",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/NSRL/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Okta": {
+    "id": "Okta",
+    "name": "Okta",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Okta/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Onyphe": {
+    "id": "Onyphe",
+    "name": "ONYPHE",
+    "description": "ONYPHE is a cyber defense search engine that collects and analyzes internet-wide scan data, providing intelligence on exposed assets, vulnerabilities, and threat actor infrastructure for proactive defense and incident investigation",
+    "category": [
+      "Attack Surface Intelligence"
+    ],
+    "tags": [
+      "internet-scanning",
+      "infrastructure-intelligence",
+      "vulnerability-detection",
+      "threat-hunting",
+      "incident-response"
+    ],
+    "homepage": "https://www.onyphe.io",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Onyphe/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Onyphe/overview.md",
+    "stats": {
+      "totalAnalyzers": 5,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 5
+    }
+  },
+  "ONYPHEActiveScan": {
+    "id": "ONYPHEActiveScan",
+    "name": "ONYPHEActiveScan",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/ONYPHEActiveScan/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "OpenCTI": {
+    "id": "OpenCTI",
+    "name": "OpenCTI",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/OpenCTI/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "OrionMalware": {
+    "id": "OrionMalware",
+    "name": "OrionMalware",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/OrionMalware/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "OTXQuery": {
+    "id": "OTXQuery",
+    "name": "AlienVault OTX",
+    "description": "AlienVault Open Threat Exchange (OTX) is a collaborative threat intelligence platform where security researchers share IOCs, attack patterns, and threat data, enabling community-driven defense and rapid threat validation",
+    "category": [
+      "Threat Intelligence"
+    ],
+    "tags": [
+      "threat-intelligence",
+      "community-intelligence",
+      "ioc-sharing",
+      "collaborative-defense",
+      "incident-response"
+    ],
+    "homepage": "https://otx.alienvault.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/OTXQuery/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/OTXQuery/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "PaloAltoCortexXDR": {
+    "id": "PaloAltoCortexXDR",
+    "name": "PAN Cortex XDR",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/PaloAltoCortexXDR/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 3,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 3
+    }
+  },
+  "PaloAltoNGFW": {
+    "id": "PaloAltoNGFW",
+    "name": "PAN Next Generation Firewall",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/PaloAltoNGFW/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 16,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 16
+    }
+  },
+  "PaloAltoWildFire": {
+    "id": "PaloAltoWildFire",
+    "name": "PAN WildFire",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/PaloAltoWildFire/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "PassiveTotal": {
+    "id": "PassiveTotal",
+    "name": "PassiveTotal",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/PassiveTotal/overview.md",
+    "stats": {
+      "totalAnalyzers": 11,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 11
+    }
+  },
+  "Patrowl": {
+    "id": "Patrowl",
+    "name": "Patrowl",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Patrowl/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "PayloadSecurity": {
+    "id": "PayloadSecurity",
+    "name": "PayloadSecurity",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/PayloadSecurity/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "PhishingInitiative": {
+    "id": "PhishingInitiative",
+    "name": "PhishingInitiative",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/PhishingInitiative/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "PhishTank": {
+    "id": "PhishTank",
+    "name": "PhishTank",
+    "description": "Verify URL observables against community-reported phishing sites. Confirm if URLs in your cases are part of known phishing campaigns",
+    "category": [
+      "Phishing Intelligence"
+    ],
+    "tags": [
+      "phishing-detection",
+      "url-reputation",
+      "threat-intelligence",
+      "community-intelligence"
+    ],
+    "homepage": "https://www.phishtank.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/PhishTank/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/PhishTank/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Proofpoint": {
+    "id": "Proofpoint",
+    "name": "Proofpoint",
+    "description": "Proofpoint is an enterprise email security and threat protection platform that provides advanced threat detection, URL defense, and forensic analysis capabilities",
+    "category": [
+      "Email Security"
+    ],
+    "tags": [
+      "email-security"
+    ],
+    "homepage": "https://www.proofpoint.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Proofpoint/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Proofpoint/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 2,
+      "totalUseCases": 2,
+      "totalExternalIntegrations": 0,
+      "total": 3
+    }
+  },
+  "Pulsedive": {
+    "id": "Pulsedive",
+    "name": "Pulsedive",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Pulsedive/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "QrDecode": {
+    "id": "QrDecode",
+    "name": "QrDecode",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/QrDecode/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "RecordedFuture": {
+    "id": "RecordedFuture",
+    "name": "Recorded Future",
+    "description": "Recorded Future is a real-time threat intelligence platform that analyzes data from the open web, dark web, and technical sources to provide predictive insights, risk scores, and actionable intelligence for proactive threat detection",
+    "category": [
+      "Threat Intelligence"
+    ],
+    "tags": [
+      "threat-intelligence",
+      "risk-scoring",
+      "predictive-intelligence",
+      "dark-web",
+      "incident-response"
+    ],
+    "homepage": "https://www.recordedfuture.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/RecordedFuture/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/RecordedFuture/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Redmine": {
+    "id": "Redmine",
+    "name": "Redmine",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Redmine/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "RiskIQ": {
+    "id": "RiskIQ",
+    "name": "RiskIQ",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/RiskIQ/overview.md",
+    "stats": {
+      "totalAnalyzers": 16,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 17
+    }
+  },
+  "Robtex": {
+    "id": "Robtex",
+    "name": "Robtex",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Robtex/overview.md",
+    "stats": {
+      "totalAnalyzers": 3,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 3
+    }
+  },
+  "RT4": {
+    "id": "RT4",
+    "name": "RT4",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/RT4/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "SecurityTrails": {
+    "id": "SecurityTrails",
+    "name": "SecurityTrails",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/SecurityTrails/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "SEKOIAIntelligenceCenter": {
+    "id": "SEKOIAIntelligenceCenter",
+    "name": "SEKOIA Intelligence Center",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/SEKOIAIntelligenceCenter/overview.md",
+    "stats": {
+      "totalAnalyzers": 3,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 3
+    }
+  },
+  "SendGrid": {
+    "id": "SendGrid",
+    "name": "SendGrid",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/SendGrid/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "SentinelOne": {
+    "id": "SentinelOne",
+    "name": "SentinelOne",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/SentinelOne/overview.md",
+    "stats": {
+      "totalAnalyzers": 3,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 4
+    }
+  },
+  "Shodan": {
+    "id": "Shodan",
+    "name": "Shodan",
+    "description": "Shodan is the search engine for internet-connected devices, providing reconnaissance data on exposed services, vulnerabilities, and infrastructure that helps identify attack surfaces, compromised systems, and threat actor infrastructure",
+    "category": [
+      "Attack Surface Intelligence"
+    ],
+    "tags": [
+      "internet-scanning",
+      "infrastructure-intelligence",
+      "reconnaissance",
+      "exposed-services",
+      "threat-hunting",
+      "incident-response"
+    ],
+    "homepage": "https://www.shodan.io",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Shodan/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Shodan/overview.md",
+    "stats": {
+      "totalAnalyzers": 6,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 6
+    }
+  },
+  "Shuffle": {
+    "id": "Shuffle",
+    "name": "Shuffle",
+    "description": "Shuffle is an open-source security orchestration, automation and response (SOAR) platform that automates repetitive security tasks, orchestrates incident response workflows, and integrates security tools to accelerate threat detection and remediation",
+    "category": [
+      "SOAR & Automation"
+    ],
+    "tags": [
+      "soar",
+      "automation",
+      "orchestration",
+      "workflow",
+      "security-automation"
+    ],
+    "homepage": "https://shuffler.io",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Shuffle/assets/logo.png",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Shuffle/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 1,
+      "total": 2
+    }
+  },
+  "SinkDB": {
+    "id": "SinkDB",
+    "name": "SinkDB",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/SinkDB/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Slack": {
+    "id": "Slack",
+    "name": "Slack",
+    "description": "Slack is a is a team collaboration platform that provides channels, direct messaging, file sharing, and an app ecosystem for workflows and incident response.",
+    "category": [
+      "Collaboration"
+    ],
+    "tags": [
+      "communication",
+      "collaboration",
+      "notifications",
+      "chat"
+    ],
+    "homepage": "https://slack.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Slack/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Slack/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 2,
+      "totalFunctions": 0,
+      "totalUseCases": 2,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "SoltraEdge": {
+    "id": "SoltraEdge",
+    "name": "SoltraEdge",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/SoltraEdge/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "SophosIntelix": {
+    "id": "SophosIntelix",
+    "name": "SophosIntelix",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/SophosIntelix/overview.md",
+    "stats": {
+      "totalAnalyzers": 3,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 3
+    }
+  },
+  "SpamAssassin": {
+    "id": "SpamAssassin",
+    "name": "SpamAssassin",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/SpamAssassin/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "SpamhausDBL": {
+    "id": "SpamhausDBL",
+    "name": "SpamhausDBL",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/SpamhausDBL/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Splunk": {
+    "id": "Splunk",
+    "name": "Splunk",
+    "description": "Splunk is a leading SIEM platform that aggregates, indexes, and analyzes machine data from across the enterprise, enabling real-time threat detection, security analytics, and incident investigation through powerful search and correlation capabilities",
+    "category": [
+      "SIEM & Analytics"
+    ],
+    "tags": [
+      "siem",
+      "log-analysis",
+      "security-analytics",
+      "threat-detection",
+      "correlation"
+    ],
+    "homepage": "https://www.splunk.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Splunk/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Splunk/overview.md",
+    "stats": {
+      "totalAnalyzers": 11,
+      "totalResponders": 0,
+      "totalFunctions": 1,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 2,
+      "total": 14
+    }
+  },
+  "StamusNetworks": {
+    "id": "StamusNetworks",
+    "name": "StamusNetworks",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/StamusNetworks/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "StaxxSearch": {
+    "id": "StaxxSearch",
+    "name": "StaxxSearch",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/StaxxSearch/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "StopForumSpam": {
+    "id": "StopForumSpam",
+    "name": "StopForumSpam",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/StopForumSpam/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "TalosReputation": {
+    "id": "TalosReputation",
+    "name": "TalosReputation",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/TalosReputation/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 0
+    }
+  },
+  "TeamCymruMHR": {
+    "id": "TeamCymruMHR",
+    "name": "Malware Hash Registry (MHR)",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/TeamCymruMHR/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Telegram": {
+    "id": "Telegram",
+    "name": "Telegram",
+    "description": "Telegram is a cloud-based messaging platform that enables real-time security alerts, incident notifications, and team collaboration during security operations with bot-based automation and secure communication channels",
+    "category": [
+      "Collaboration"
+    ],
+    "tags": [
+      "communication",
+      "notifications",
+      "alerts",
+      "team-collaboration",
+      "incident-response"
+    ],
+    "homepage": "https://telegram.org",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Telegram/assets/logo.svg",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Telegram/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Test": {
+    "id": "Test",
+    "name": "Test",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Test/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 2,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "TestAnalyzer": {
+    "id": "TestAnalyzer",
+    "name": "TestAnalyzer",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/TestAnalyzer/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "ThreatConnect": {
+    "id": "ThreatConnect",
+    "name": "ThreatConnect",
+    "description": "ThreatConnect is a threat intelligence platform that enables security teams to aggregate, analyze, and operationalize threat data for improved security operations and incident response",
+    "category": [
+      "Threat Intelligence"
+    ],
+    "tags": [
+      "threat-intelligence",
+      "collaboration"
+    ],
+    "homepage": "https://threatconnect.com",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/ThreatConnect/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 1,
+      "total": 1
+    }
+  },
+  "Threatcrowd": {
+    "id": "Threatcrowd",
+    "name": "Threatcrowd",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Threatcrowd/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 0
+    }
+  },
+  "ThreatGrid": {
+    "id": "ThreatGrid",
+    "name": "ThreatGrid",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/ThreatGrid/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "ThreatMiner": {
+    "id": "ThreatMiner",
+    "name": "ThreatMiner",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/ThreatMiner/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "ThreatResponse": {
+    "id": "ThreatResponse",
+    "name": "ThreatResponse",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/ThreatResponse/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Thunderstorm": {
+    "id": "Thunderstorm",
+    "name": "Thunderstorm",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Thunderstorm/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Tines": {
+    "id": "Tines",
+    "name": "Tines",
+    "description": "",
+    "category": [
+      "SOAR & Automation"
+    ],
+    "tags": [
+      "automation",
+      "workflow-orchestration"
+    ],
+    "homepage": "https://www.tines.com",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Tines/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 1,
+      "total": 1
+    }
+  },
+  "TorBlutmagie": {
+    "id": "TorBlutmagie",
+    "name": "TorBlutmagie",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/TorBlutmagie/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "TorProject": {
+    "id": "TorProject",
+    "name": "TorProject",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/TorProject/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Triage": {
+    "id": "Triage",
+    "name": "Triage",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Triage/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "UnshortenLink": {
+    "id": "UnshortenLink",
+    "name": "UnshortenLink",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/UnshortenLink/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "urlDNA.io": {
+    "id": "urlDNA.io",
+    "name": "urlDNA.io",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/urlDNA.io/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "URLhaus": {
+    "id": "URLhaus",
+    "name": "URLhaus",
+    "description": "URLhaus is a community-driven platform by Abuse.ch for tracking and sharing malware distribution URLs, providing real-time intelligence on malicious domains and payload delivery infrastructure used in active campaigns",
+    "category": [
+      "Threat Intelligence"
+    ],
+    "tags": [
+      "malware-urls",
+      "threat-intelligence",
+      "url-tracking",
+      "malware-distribution",
+      "incident-response"
+    ],
+    "homepage": "https://urlhaus.abuse.ch",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/URLhaus/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/URLhaus/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Urlscan.io": {
+    "id": "Urlscan.io",
+    "name": "URLScan.io",
+    "description": "URLScan.io is an automated web scanner that analyzes URLs and websites in real-time, capturing screenshots, network traffic, and behavioral indicators to identify phishing, malware distribution, and suspicious web content",
+    "category": [
+      "URL Analysis"
+    ],
+    "tags": [
+      "url-scanning",
+      "phishing-detection",
+      "web-analysis",
+      "threat-detection",
+      "incident-response"
+    ],
+    "homepage": "https://urlscan.io",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Urlscan.io/assets/logo.ico",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Urlscan.io/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "Valhalla": {
+    "id": "Valhalla",
+    "name": "Valhalla",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Valhalla/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "ValidateObservable": {
+    "id": "ValidateObservable",
+    "name": "ValidateObservable",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/ValidateObservable/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Velociraptor": {
+    "id": "Velociraptor",
+    "name": "Velociraptor",
+    "description": "Velociraptor is an advanced digital forensics and incident response (DFIR) platform that enables endpoint visibility, remote forensic collection, and threat hunting at scale across enterprise environments for rapid investigation and evidence gathering",
+    "category": [
+      "DFIR"
+    ],
+    "tags": [
+      "digital-forensics",
+      "incident-response",
+      "dfir",
+      "threat-hunting",
+      "endpoint-visibility",
+      "forensic-collection"
+    ],
+    "homepage": "https://docs.velociraptor.app",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Velociraptor/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Verifalia": {
+    "id": "Verifalia",
+    "name": "Verifalia",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Verifalia/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Virusshare": {
+    "id": "Virusshare",
+    "name": "Virusshare",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Virusshare/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "VirusTotal": {
+    "id": "VirusTotal",
+    "name": "VirusTotal",
+    "description": "VirusTotal is a comprehensive malware analysis platform aggregating results from 70+ antivirus engines and security tools, enabling rapid file, URL, domain, and IP reputation checks during incident investigations",
+    "category": [
+      "Malware Analysis"
+    ],
+    "tags": [
+      "malware-analysis",
+      "threat-intelligence",
+      "file-analysis",
+      "url-analysis",
+      "multi-scanner",
+      "incident-response"
+    ],
+    "homepage": "https://www.virustotal.com",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/VirusTotal/assets/logo.svg",
+    "visibility": "high",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/VirusTotal/overview.md",
+    "stats": {
+      "totalAnalyzers": 4,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 4
+    }
+  },
+  "VirustotalDownloader": {
+    "id": "VirustotalDownloader",
+    "name": "VirustotalDownloader",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/VirustotalDownloader/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "VMRay": {
+    "id": "VMRay",
+    "name": "VMRay",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/VMRay/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Vulners": {
+    "id": "Vulners",
+    "name": "Vulners",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": true,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Vulners/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "Watcher": {
+    "id": "Watcher",
+    "name": "Watcher",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Watcher/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 4,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 5
+    }
+  },
+  "Wazuh": {
+    "id": "Wazuh",
+    "name": "Wazuh",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Wazuh/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 1,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "WOT": {
+    "id": "WOT",
+    "name": "WOT",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/WOT/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Yara": {
+    "id": "Yara",
+    "name": "YARA",
+    "description": "YARA is a pattern matching engine for malware identification and classification that enables analysts to create rules describing malware families and threat patterns, facilitating rapid malware detection and threat hunting during investigations",
+    "category": [
+      "Malware Analysis"
+    ],
+    "tags": [
+      "malware-detection",
+      "pattern-matching",
+      "threat-hunting",
+      "malware-classification"
+    ],
+    "homepage": "https://virustotal.github.io/yara/",
+    "logo_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/Yara/assets/logo.png",
+    "visibility": "high",
+    "subscription": {
+      "required": false,
+      "free": true,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Yara/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "Yeti": {
+    "id": "Yeti",
+    "name": "Yeti",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Yeti/overview.md",
+    "stats": {
+      "totalAnalyzers": 1,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 1
+    }
+  },
+  "ZEROFOX": {
+    "id": "ZEROFOX",
+    "name": "ZEROFOX",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": false,
+      "free": false,
+      "paid": false
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/ZEROFOX/overview.md",
+    "stats": {
+      "totalAnalyzers": 0,
+      "totalResponders": 2,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  },
+  "Zscaler": {
+    "id": "Zscaler",
+    "name": "Zscaler",
+    "description": "",
+    "category": [],
+    "tags": [],
+    "homepage": "",
+    "logo_url": "",
+    "visibility": "low",
+    "subscription": {
+      "required": true,
+      "free": false,
+      "paid": true
+    },
+    "vendor_internal_page_content_url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.generated/docs/vendors/Zscaler/overview.md",
+    "stats": {
+      "totalAnalyzers": 2,
+      "totalResponders": 0,
+      "totalFunctions": 0,
+      "totalUseCases": 0,
+      "totalExternalIntegrations": 0,
+      "total": 2
+    }
+  }
+}

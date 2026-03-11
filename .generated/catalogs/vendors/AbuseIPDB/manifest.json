@@ -1,0 +1,71 @@
+{
+  "id": "AbuseIPDB",
+  "name": "AbuseIPDB",
+  "description": "AbuseIPDB is a crowdsourced IP reputation database that helps identify and track malicious IPs involved in attacks, providing confidence scores and abuse reports for rapid threat assessment and blocking decisions",
+  "category": "Threat Intelligence",
+  "tags": [
+    "ip-reputation",
+    "threat-detection",
+    "abuse-tracking",
+    "blacklist",
+    "incident-response"
+  ],
+  "homepage": "https://www.abuseipdb.com",
+  "logo": {
+    "file": "integrations/vendors/AbuseIPDB/assets/logo.svg",
+    "url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/AbuseIPDB/assets/logo.svg",
+    "github_url": "https://github.com/StrangeBeeCorp/integrations/blob/main/integrations/vendors/AbuseIPDB/assets/logo.svg"
+  },
+  "useCases": [],
+  "externalIntegrations": [],
+  "displayOnWebsite": true,
+  "visibility": "high",
+  "registration_required": true,
+  "subscription_required": true,
+  "free_subscription": true,
+  "integrations": {
+    "analyzers": [
+      {
+        "name": "AbuseIPDB",
+        "version": "1.1",
+        "author": "Matteo Lodi; Fabien Bloume, StrangeBee",
+        "license": "AGPL-v3",
+        "description": "Checks an IP against AbuseIPDB for abuse score, categories, and recent reports.",
+        "dataTypes": [
+          "ip"
+        ],
+        "file": ".upstream/cortex/analyzers/AbuseIPDB/AbuseIPDB.json",
+        "url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/analyzers/AbuseIPDB/AbuseIPDB.json",
+        "github_url": "https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/analyzers/AbuseIPDB/AbuseIPDB.json",
+        "upstream_url": "https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/AbuseIPDB/AbuseIPDB.json",
+        "integration_type": "external_api"
+      }
+    ],
+    "responders": [
+      {
+        "name": "AbuseIPDB_Report",
+        "version": "1.0",
+        "author": "Fabien Bloume, StrangeBee",
+        "license": "AGPL-V3",
+        "description": "Report an IP address to AbuseIPDB for abuse tracking and community sharing. Please, make sure to use the correct category in your Cortex responder configuration.",
+        "dataTypes": [
+          "thehive:case_artifact"
+        ],
+        "file": ".upstream/cortex/responders/AbuseIPDB/AbuseIPDB_Report.json",
+        "url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/responders/AbuseIPDB/AbuseIPDB_Report.json",
+        "github_url": "https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/responders/AbuseIPDB/AbuseIPDB_Report.json",
+        "upstream_url": "https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/responders/AbuseIPDB/AbuseIPDB_Report.json",
+        "integration_type": "external_api"
+      }
+    ],
+    "functions": []
+  },
+  "stats": {
+    "totalAnalyzers": 1,
+    "totalResponders": 1,
+    "totalFunctions": 0,
+    "totalUseCases": 0,
+    "totalExternalIntegrations": 0,
+    "total": 2
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ThreatMiner",
+  "name": "ThreatMiner",
+  "description": "",
+  "category": "",
+  "tags": [],
+  "homepage": "",
+  "logo": {},
+  "useCases": [],
+  "externalIntegrations": [],
+  "displayOnWebsite": true,
+  "visibility": "low",
+  "integrations": {
+    "analyzers": [
+      {
+        "name": "ThreatMiner",
+        "version": "1.0",
+        "author": "Peter Juhas",
+        "license": "AGPL-V3",
+        "description": "WHOIS queries from threatminer.org",
+        "dataTypes": [
+          "ip",
+          "domain"
+        ],
+        "file": ".upstream/cortex/analyzers/ThreatMiner/ThreatMiner.json",
+        "url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/analyzers/ThreatMiner/ThreatMiner.json",
+        "github_url": "https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/analyzers/ThreatMiner/ThreatMiner.json",
+        "upstream_url": "https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/ThreatMiner/ThreatMiner.json",
+        "integration_type": null
+      }
+    ],
+    "responders": [],
+    "functions": []
+  },
+  "stats": {
+    "totalAnalyzers": 1,
+    "totalResponders": 0,
+    "totalFunctions": 0,
+    "totalUseCases": 0,
+    "totalExternalIntegrations": 0,
+    "total": 1
+  }
+}

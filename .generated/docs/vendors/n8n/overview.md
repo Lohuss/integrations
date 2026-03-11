@@ -1,0 +1,21 @@
+## Responders (1)
+
+### n8n `v1.0`
+Send data to n8n via webhook
+
+- **Author:** Anas SOUIRI
+- **License:** AGPL-V3
+- **Data Types:** `thehive:case`, `thehive:alert`, `thehive:case_artifact`, `thehive:case_task`, `thehive:case_task_log`
+- **Configuration:** [View config](https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/responders/n8n/n8n.json)
+
+---
+
+## External Integrations (1)
+
+External integrations that connect n8n with TheHive:
+
+### Cortex and TheHive Nodes
+Pre-built workflow nodes that enable automated data transfer and task orchestration between n8n, Cortex analyzers/responders, and TheHive cases/alerts/observables
+
+- **Type:** workflow-nodes
+- **Documentation:** [https://n8n.io/integrations/thehive-5/](https://n8n.io/integrations/thehive-5/)

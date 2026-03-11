@@ -1,0 +1,9 @@
+## Analyzers (1)
+
+### FireEyeiSight `v1.0`
+Query domains, IPs, hashes and URLs on FireEye's iSIGHT threat intelligence service.
+
+- **Author:** Davide Arcuri and Andrea Garavaglia, LDO-CERT
+- **License:** AGPL-V3
+- **Data Types:** `domain`, `ip`, `hash`, `url`
+- **Configuration:** [View config](https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/FireEyeiSight/FireEyeiSight.json)

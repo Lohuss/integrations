@@ -1,0 +1,49 @@
+# AUTO-GENERATED - DO NOT EDIT
+# Edit vendor.yml for vendor metadata, then re-run the generator
+
+id: PayloadSecurity
+name: PayloadSecurity
+description: ''
+category: ''
+tags: []
+homepage: ''
+logo: {}
+useCases: []
+externalIntegrations: []
+displayOnWebsite: true
+visibility: low
+integrations:
+  analyzers:
+  - name: PayloadSecurity_File_Analysis
+    version: '1.0'
+    author: Emmanuel Torquato
+    license: AGPL-V3
+    description: PayloadSecurity Sandbox File Analysis
+    dataTypes:
+    - file
+    file: .upstream/cortex/analyzers/PayloadSecurity/PayloadSecurity_File_Analysis.json
+    url: https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/analyzers/PayloadSecurity/PayloadSecurity_File_Analysis.json
+    github_url: https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/analyzers/PayloadSecurity/PayloadSecurity_File_Analysis.json
+    upstream_url: https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/PayloadSecurity/PayloadSecurity_File_Analysis.json
+    integration_type: null
+  - name: PayloadSecurity_Url_Analysis
+    version: '1.0'
+    author: Emmanuel Torquato
+    license: AGPL-V3
+    description: PayloadSecurity Sandbox Url Analysis
+    dataTypes:
+    - url
+    file: .upstream/cortex/analyzers/PayloadSecurity/PayloadSecurity_Url_Analysis.json
+    url: https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/analyzers/PayloadSecurity/PayloadSecurity_Url_Analysis.json
+    github_url: https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/analyzers/PayloadSecurity/PayloadSecurity_Url_Analysis.json
+    upstream_url: https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/PayloadSecurity/PayloadSecurity_Url_Analysis.json
+    integration_type: null
+  responders: []
+  functions: []
+stats:
+  totalAnalyzers: 2
+  totalResponders: 0
+  totalFunctions: 0
+  totalUseCases: 0
+  totalExternalIntegrations: 0
+  total: 2

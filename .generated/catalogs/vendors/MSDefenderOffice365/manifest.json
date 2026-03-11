@@ -1,0 +1,126 @@
+{
+  "id": "MSDefenderOffice365",
+  "name": "Microsoft Defender for Office 365",
+  "description": "Microsoft Defender for Office 365 provides advanced threat protection for email and collaboration tools, detecting phishing, malware, and business email compromise attempts with automated investigation and response capabilities",
+  "category": "Email Security",
+  "tags": [
+    "email-security",
+    "phishing-protection",
+    "malware-detection",
+    "threat-protection",
+    "incident-response",
+    "microsoft"
+  ],
+  "homepage": "https://www.microsoft.com/security/business/threat-protection/office-365-defender",
+  "logo": {
+    "file": "integrations/vendors/MSDefenderOffice365/assets/logo.png",
+    "url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/MSDefenderOffice365/assets/logo.png",
+    "github_url": "https://github.com/StrangeBeeCorp/integrations/blob/main/integrations/vendors/MSDefenderOffice365/assets/logo.png"
+  },
+  "useCases": [],
+  "externalIntegrations": [],
+  "displayOnWebsite": true,
+  "visibility": "high",
+  "registration_required": [
+    true,
+    false
+  ],
+  "subscription_required": [
+    true,
+    false
+  ],
+  "free_subscription": [
+    true,
+    false
+  ],
+  "integrations": {
+    "analyzers": [
+      {
+        "name": "MSDefenderOffice365_SafeLinksDecoder.json",
+        "version": "1.0",
+        "author": "Louis HUSSON",
+        "license": "AGPL-V3",
+        "description": "Decodes Office 365 ATP Safe Links to extract original URLs. Supports url observables containing safelinks.protection.outlook.com domains.",
+        "dataTypes": [
+          "url"
+        ],
+        "file": ".upstream/cortex/analyzers/MSDefenderOffice365/MSDefenderOffice365_SafeLinksDecoder.json",
+        "url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/analyzers/MSDefenderOffice365/MSDefenderOffice365_SafeLinksDecoder.json",
+        "github_url": "https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/analyzers/MSDefenderOffice365/MSDefenderOffice365_SafeLinksDecoder.json",
+        "upstream_url": "https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/MSDefenderOffice365/MSDefenderOffice365_SafeLinksDecoder.json",
+        "integration_type": null
+      }
+    ],
+    "responders": [
+      {
+        "name": "MSDefenderOffice365_allow",
+        "version": "1.0",
+        "author": "Vito Piserchia",
+        "license": "AGPL-V3",
+        "description": "Add entries to the Tenant Allow/Block List in the Microsoft 365 Defender",
+        "dataTypes": [
+          "thehive:case_artifact"
+        ],
+        "file": ".upstream/cortex/responders/MSDefenderOffice365/MSDefenderOffice365_allow.json",
+        "url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/responders/MSDefenderOffice365/MSDefenderOffice365_allow.json",
+        "github_url": "https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/responders/MSDefenderOffice365/MSDefenderOffice365_allow.json",
+        "upstream_url": "https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/responders/MSDefenderOffice365/MSDefenderOffice365_allow.json",
+        "integration_type": null
+      },
+      {
+        "name": "MSDefenderOffice365_block",
+        "version": "1.0",
+        "author": "Joe Lazaro",
+        "license": "AGPL-V3",
+        "description": "Add entries to the Tenant Allow/Block List in the Microsoft 365 Defender",
+        "dataTypes": [
+          "thehive:case_artifact"
+        ],
+        "file": ".upstream/cortex/responders/MSDefenderOffice365/MSDefenderOffice365_block.json",
+        "url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/responders/MSDefenderOffice365/MSDefenderOffice365_block.json",
+        "github_url": "https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/responders/MSDefenderOffice365/MSDefenderOffice365_block.json",
+        "upstream_url": "https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/responders/MSDefenderOffice365/MSDefenderOffice365_block.json",
+        "integration_type": null
+      },
+      {
+        "name": "MSDefenderOffice365_unblock",
+        "version": "1.0",
+        "author": "Joe Lazaro",
+        "license": "AGPL-V3",
+        "description": "Add entries to the Tenant Allow/Block List in the Microsoft 365 Defender",
+        "dataTypes": [
+          "thehive:case_artifact"
+        ],
+        "file": ".upstream/cortex/responders/MSDefenderOffice365/MSDefenderOffice365_unblock.json",
+        "url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/responders/MSDefenderOffice365/MSDefenderOffice365_unblock.json",
+        "github_url": "https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/responders/MSDefenderOffice365/MSDefenderOffice365_unblock.json",
+        "upstream_url": "https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/responders/MSDefenderOffice365/MSDefenderOffice365_unblock.json",
+        "integration_type": null
+      },
+      {
+        "name": "MSDefenderOffice365_disallow",
+        "version": "1.0",
+        "author": "Vito Piserchia",
+        "license": "AGPL-V3",
+        "description": "Add entries to the Tenant Allow/Block List in the Microsoft 365 Defender",
+        "dataTypes": [
+          "thehive:case_artifact"
+        ],
+        "file": ".upstream/cortex/responders/MSDefenderOffice365/MSDefenderOffice365_disallow.json",
+        "url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/responders/MSDefenderOffice365/MSDefenderOffice365_disallow.json",
+        "github_url": "https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/responders/MSDefenderOffice365/MSDefenderOffice365_disallow.json",
+        "upstream_url": "https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/responders/MSDefenderOffice365/MSDefenderOffice365_disallow.json",
+        "integration_type": null
+      }
+    ],
+    "functions": []
+  },
+  "stats": {
+    "totalAnalyzers": 1,
+    "totalResponders": 4,
+    "totalFunctions": 0,
+    "totalUseCases": 0,
+    "totalExternalIntegrations": 0,
+    "total": 5
+  }
+}

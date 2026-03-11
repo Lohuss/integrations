@@ -1,0 +1,54 @@
+{
+  "id": "PhishTank",
+  "name": "PhishTank",
+  "description": "Verify URL observables against community-reported phishing sites. Confirm if URLs in your cases are part of known phishing campaigns",
+  "category": "Phishing Intelligence",
+  "tags": [
+    "phishing-detection",
+    "url-reputation",
+    "threat-intelligence",
+    "community-intelligence"
+  ],
+  "homepage": "https://www.phishtank.com",
+  "logo": {
+    "file": "integrations/vendors/PhishTank/assets/logo.png",
+    "url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/PhishTank/assets/logo.png",
+    "github_url": "https://github.com/StrangeBeeCorp/integrations/blob/main/integrations/vendors/PhishTank/assets/logo.png"
+  },
+  "useCases": [],
+  "externalIntegrations": [],
+  "displayOnWebsite": true,
+  "visibility": "low",
+  "registration_required": true,
+  "subscription_required": true,
+  "free_subscription": true,
+  "integrations": {
+    "analyzers": [
+      {
+        "name": "PhishTank_CheckURL",
+        "version": "2.1",
+        "author": "Eric Capuano",
+        "license": "AGPL-V3",
+        "description": "Use PhishTank to check if a URL is a verified phishing site.",
+        "dataTypes": [
+          "url"
+        ],
+        "file": ".upstream/cortex/analyzers/PhishTank/PhishTank_CheckURL.json",
+        "url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/analyzers/PhishTank/PhishTank_CheckURL.json",
+        "github_url": "https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/analyzers/PhishTank/PhishTank_CheckURL.json",
+        "upstream_url": "https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/analyzers/PhishTank/PhishTank_CheckURL.json",
+        "integration_type": null
+      }
+    ],
+    "responders": [],
+    "functions": []
+  },
+  "stats": {
+    "totalAnalyzers": 1,
+    "totalResponders": 0,
+    "totalFunctions": 0,
+    "totalUseCases": 0,
+    "totalExternalIntegrations": 0,
+    "total": 1
+  }
+}

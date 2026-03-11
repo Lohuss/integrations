@@ -1,0 +1,49 @@
+# AUTO-GENERATED - DO NOT EDIT
+# Edit vendor.yml for vendor metadata, then re-run the generator
+
+id: ZEROFOX
+name: ZEROFOX
+description: ''
+category: ''
+tags: []
+homepage: ''
+logo: {}
+useCases: []
+externalIntegrations: []
+displayOnWebsite: true
+visibility: low
+integrations:
+  analyzers: []
+  responders:
+  - name: ZEROFOX_Takedown_request
+    version: '1.0'
+    author: TheHive-Project
+    license: AGPL-V3
+    description: Request for a takedown regarding the alert in Zerofox
+    dataTypes:
+    - thehive:case
+    file: .upstream/cortex/responders/ZEROFOX/ZEROFOX_Takedown_request.json
+    url: https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/responders/ZEROFOX/ZEROFOX_Takedown_request.json
+    github_url: https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/responders/ZEROFOX/ZEROFOX_Takedown_request.json
+    upstream_url: https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/responders/ZEROFOX/ZEROFOX_Takedown_request.json
+    integration_type: null
+  - name: ZEROFOX_Close_alert
+    version: '1.0'
+    author: TheHive-Project
+    license: AGPL-V3
+    description: Close alert in Zerofox
+    dataTypes:
+    - thehive:case
+    file: .upstream/cortex/responders/ZEROFOX/ZEROFOX_Close_alert.json
+    url: https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/.upstream/cortex/responders/ZEROFOX/ZEROFOX_Close_alert.json
+    github_url: https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/responders/ZEROFOX/ZEROFOX_Close_alert.json
+    upstream_url: https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/responders/ZEROFOX/ZEROFOX_Close_alert.json
+    integration_type: null
+  functions: []
+stats:
+  totalAnalyzers: 0
+  totalResponders: 2
+  totalFunctions: 0
+  totalUseCases: 0
+  totalExternalIntegrations: 0
+  total: 2
