@@ -11,7 +11,7 @@ logo: {}
 useCases: []
 externalIntegrations: []
 displayOnWebsite: true
-visibility: low
+visibility: 100
 integrations:
   analyzers:
   - name: GRR

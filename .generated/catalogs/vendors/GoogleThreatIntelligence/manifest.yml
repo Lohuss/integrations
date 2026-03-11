@@ -23,7 +23,7 @@ logo:
 useCases: []
 externalIntegrations: []
 displayOnWebsite: true
-visibility: high
+visibility: 7
 registration_required: true
 subscription_required:
 - true

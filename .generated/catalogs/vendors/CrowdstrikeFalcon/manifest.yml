@@ -51,7 +51,7 @@ externalIntegrations:
   type: connector
   documentation: https://github.com/StrangeBeeCorp/falcon2thehive
 displayOnWebsite: true
-visibility: high
+visibility: 1
 registration_required: true
 subscription_required: true
 free_subscription: false

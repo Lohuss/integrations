@@ -13,7 +13,7 @@
   "useCases": [],
   "externalIntegrations": [],
   "displayOnWebsite": true,
-  "visibility": "high",
+  "visibility": 14,
   "registration_required": true,
   "subscription_required": true,
   "free_subscription": false,

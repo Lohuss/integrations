@@ -48,7 +48,7 @@ useCases:
   - integrations/vendors/Proofpoint/thehive/functions/function_Feeder_alertFromProofpoint_clicksPermitted.js
 externalIntegrations: []
 displayOnWebsite: true
-visibility: high
+visibility: 10
 registration_required: true
 subscription_required: true
 free_subscription: false

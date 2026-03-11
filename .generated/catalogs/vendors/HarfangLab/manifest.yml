@@ -11,7 +11,7 @@ logo: {}
 useCases: []
 externalIntegrations: []
 displayOnWebsite: true
-visibility: low
+visibility: 100
 subscription_required: true
 free_subscription: false
 integrations:

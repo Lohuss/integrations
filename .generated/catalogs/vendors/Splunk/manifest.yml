@@ -31,7 +31,7 @@ externalIntegrations:
   type: soar-connector
   documentation: https://splunkbase.splunk.com/app/5939
 displayOnWebsite: true
-visibility: high
+visibility: 2
 registration_required: false
 subscription_required: false
 free_subscription: true

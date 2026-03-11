@@ -9,7 +9,7 @@ Abuse_Finder:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -60,7 +60,7 @@ AbuseIPDB:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 13
   registration_required: true
   subscription_required: true
   free_subscription: true
@@ -152,7 +152,7 @@ Airtable:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders: []
@@ -267,7 +267,7 @@ AnyRun:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -306,7 +306,7 @@ Autofocus:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: Autofocus_SearchJSON
@@ -372,7 +372,7 @@ AWSLambda:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -414,7 +414,7 @@ AWX:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -452,7 +452,7 @@ Axur:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -494,7 +494,7 @@ BackscatterIO:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: BackscatterIO_GetObservations
@@ -546,7 +546,7 @@ BinalyzeAIR:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -596,7 +596,7 @@ C1fApp:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: C1fApp
@@ -644,7 +644,7 @@ Capa:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 19
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -682,7 +682,7 @@ Censys:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -722,7 +722,7 @@ CERTatPassiveDNS:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: CERTatPassiveDNS
@@ -759,7 +759,7 @@ ChainAbuse:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: false
   integrations:
@@ -797,7 +797,7 @@ CheckPhish:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: CheckPhish_Submit
@@ -844,7 +844,7 @@ CheckPoint:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders:
@@ -1055,7 +1055,7 @@ CiscoUmbrella:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -1106,7 +1106,7 @@ CISMCAP:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: false
   free_subscription: false
@@ -1150,7 +1150,7 @@ ClamAV:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: ClamAV_FileInfo
@@ -1188,7 +1188,7 @@ Cloudflare:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 14
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -1226,7 +1226,7 @@ Cluster25:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -1269,7 +1269,7 @@ ClusterHawk:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -1426,7 +1426,7 @@ CrowdstrikeFalcon:
     type: connector
     documentation: https://github.com/StrangeBeeCorp/falcon2thehive
   displayOnWebsite: true
-  visibility: high
+  visibility: 1
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -1706,7 +1706,7 @@ Crtsh:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: true
@@ -1744,7 +1744,7 @@ CuckooSandbox:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -1794,7 +1794,7 @@ CyberChef:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -1856,7 +1856,7 @@ CyberCrime-Tracker:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: true
@@ -1898,7 +1898,7 @@ Cyberprotect:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -1940,7 +1940,7 @@ Cylance:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -1978,7 +1978,7 @@ Diario:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders: []
@@ -2001,7 +2001,7 @@ DNS-RPZ:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders:
@@ -2036,7 +2036,7 @@ DNSDB:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: DNSDB_DomainName
@@ -2097,7 +2097,7 @@ DNSdumpster:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -2135,7 +2135,7 @@ DNSLookingglass:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -2174,7 +2174,7 @@ DNSSinkhole:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: DNSSinkhole
@@ -2248,7 +2248,7 @@ DomainTools:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: DomainTools_Risk
@@ -2480,7 +2480,7 @@ DShield:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: true
@@ -2518,7 +2518,7 @@ Duo_Security:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders:
@@ -2578,7 +2578,7 @@ EchoTrail:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: false
   free_subscription: true
@@ -2618,7 +2618,7 @@ EclecticIQ:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -2790,7 +2790,7 @@ EmergingThreats:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -2854,7 +2854,7 @@ EmlParser:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   integrations:
@@ -2891,7 +2891,7 @@ FalconCustomIOC:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders:
@@ -2940,7 +2940,7 @@ FalconSandbox:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -2978,7 +2978,7 @@ FileInfo:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: FileInfo
@@ -3055,7 +3055,7 @@ FireHOLBlocklists:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -3134,7 +3134,7 @@ Fortiguard:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders: []
@@ -3157,7 +3157,7 @@ FoxIO:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: true
@@ -3196,7 +3196,7 @@ Gatewatcher_CTI:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -3251,7 +3251,7 @@ Gmail:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders:
@@ -3334,7 +3334,7 @@ GoogleDNS:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: GoogleDNS_resolve
@@ -3419,7 +3419,7 @@ GoogleThreatIntelligence:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 7
   registration_required: true
   subscription_required:
   - true
@@ -3596,7 +3596,7 @@ GRR:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: GRR
@@ -3632,7 +3632,7 @@ HarfangLab:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   subscription_required: true
   free_subscription: false
   integrations:
@@ -4032,7 +4032,7 @@ Hashdd:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: true
@@ -4129,7 +4129,7 @@ Hippocampe:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders: []
@@ -4324,7 +4324,7 @@ Inoitsu:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: true
@@ -4397,7 +4397,7 @@ IntezerCommunity:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: true
@@ -4436,7 +4436,7 @@ Investigate:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: Investigate_Categorization
@@ -4484,7 +4484,7 @@ IP-API:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   integrations:
@@ -4578,7 +4578,7 @@ IPVoid:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: IPVoid
@@ -4613,7 +4613,7 @@ isMalicious:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: true
@@ -4654,7 +4654,7 @@ IVRE:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: IVRE
@@ -4696,7 +4696,7 @@ JAMFProtect:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -4759,7 +4759,7 @@ JIRA:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders: []
@@ -4852,7 +4852,7 @@ Jupyter:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: true
@@ -4957,7 +4957,7 @@ KnowBe4:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders:
@@ -4992,7 +4992,7 @@ LdapQuery:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: Ldap_Query
@@ -5028,7 +5028,7 @@ Lookyloo:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: true
@@ -5069,7 +5069,7 @@ LupovisProwl:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   integrations:
@@ -5106,7 +5106,7 @@ Mailer:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders:
@@ -5143,7 +5143,7 @@ MailIncidentStatus:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders:
@@ -5181,7 +5181,7 @@ Malpedia:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: Malpedia
@@ -5313,7 +5313,7 @@ MalwareClustering:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -5352,7 +5352,7 @@ Malwares:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: true
@@ -5449,7 +5449,7 @@ MetaDefender:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: MetaDefenderCloud_Scan
@@ -5534,7 +5534,7 @@ Minemeld:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -5581,7 +5581,7 @@ MISP:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 6
   registration_required: false
   subscription_required: false
   free_subscription: true
@@ -5743,7 +5743,7 @@ MSDefenderEndpoints:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 4
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -5923,7 +5923,7 @@ MSDefenderOffice365:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 9
   registration_required:
   - true
   - false
@@ -6028,7 +6028,7 @@ MSEntraID:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 5
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -6168,7 +6168,7 @@ MsgParser:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: Msg_Parser
@@ -6257,7 +6257,7 @@ NERD:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: false
   free_subscription: true
@@ -6295,7 +6295,7 @@ Nessus:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: Nessus
@@ -6331,7 +6331,7 @@ Netcraft:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -6369,7 +6369,7 @@ NSRL:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: NSRL
@@ -6405,7 +6405,7 @@ Okta:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: false
   free_subscription: false
@@ -6453,7 +6453,7 @@ Onyphe:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 17
   registration_required: true
   subscription_required: true
   free_subscription: true
@@ -6558,7 +6558,7 @@ ONYPHEActiveScan:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -6598,7 +6598,7 @@ OpenCTI:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: false
   free_subscription: false
@@ -6674,7 +6674,7 @@ OrionMalware:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -7127,7 +7127,7 @@ PassiveTotal:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: PassiveTotal_Malware
@@ -7302,7 +7302,7 @@ Patrowl:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -7342,7 +7342,7 @@ PayloadSecurity:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: PayloadSecurity_File_Analysis
@@ -7389,7 +7389,7 @@ PhishingInitiative:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription:
@@ -7524,7 +7524,7 @@ Proofpoint:
     - integrations/vendors/Proofpoint/thehive/functions/function_Feeder_alertFromProofpoint_clicksPermitted.js
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 10
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -7580,7 +7580,7 @@ Pulsedive:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: Pulsedive_GetIndicator
@@ -7618,7 +7618,7 @@ QrDecode:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: QrDecode
@@ -7662,7 +7662,7 @@ RecordedFuture:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 8
   registration_required: true
   subscription_required: true
   integrations:
@@ -7704,7 +7704,7 @@ Redmine:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders:
@@ -7740,7 +7740,7 @@ RiskIQ:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: RiskIQ_Cookies
@@ -7996,7 +7996,7 @@ Robtex:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: Robtex_Forward_PDNS_Query
@@ -8056,7 +8056,7 @@ RT4:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders:
@@ -8093,7 +8093,7 @@ SecurityTrails:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: SecurityTrails_Whois
@@ -8214,7 +8214,7 @@ SendGrid:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders:
@@ -8250,7 +8250,7 @@ SentinelOne:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -8340,7 +8340,7 @@ Shodan:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 11
   registration_required: true
   subscription_required: false
   free_subscription: true
@@ -8494,7 +8494,7 @@ SinkDB:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: SinkDB
@@ -8561,7 +8561,7 @@ Slack:
     - notification
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 12
   registration_required: true
   subscription_required: false
   free_subscription: true
@@ -8613,7 +8613,7 @@ SoltraEdge:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: SoltraEdge
@@ -8661,7 +8661,7 @@ SophosIntelix:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: SophosIntelix_Submit_Static
@@ -8727,7 +8727,7 @@ SpamAssassin:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -8765,7 +8765,7 @@ SpamhausDBL:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: SpamhausDBL
@@ -8821,7 +8821,7 @@ Splunk:
     type: soar-connector
     documentation: https://splunkbase.splunk.com/app/5939
   displayOnWebsite: true
-  visibility: high
+  visibility: 2
   registration_required: false
   subscription_required: false
   free_subscription: true
@@ -8993,7 +8993,7 @@ StamusNetworks:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: StamusNetworks_HostID
@@ -9028,7 +9028,7 @@ StaxxSearch:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: StaxxSearch
@@ -9068,7 +9068,7 @@ StopForumSpam:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: StopForumSpam
@@ -9104,7 +9104,7 @@ TalosReputation:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders: []
@@ -9174,7 +9174,7 @@ Telegram:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 20
   registration_required: true
   subscription_required: false
   free_subscription: true
@@ -9212,7 +9212,7 @@ Test:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders:
@@ -9267,7 +9267,7 @@ TestAnalyzer:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -9369,7 +9369,7 @@ Threatcrowd:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders: []
@@ -9392,7 +9392,7 @@ ThreatGrid:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: ThreatGrid
@@ -9429,7 +9429,7 @@ ThreatMiner:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: ThreatMiner
@@ -9465,7 +9465,7 @@ ThreatResponse:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: ThreatResponse
@@ -9505,7 +9505,7 @@ Thunderstorm:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -9573,7 +9573,7 @@ TorBlutmagie:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: true
@@ -9614,7 +9614,7 @@ TorProject:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: TorProject
@@ -9649,7 +9649,7 @@ Triage:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: true
@@ -9690,7 +9690,7 @@ UnshortenLink:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: UnshortenLink
@@ -9725,7 +9725,7 @@ urlDNA.io:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: false
   free_subscription: true
@@ -9786,7 +9786,7 @@ URLhaus:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 16
   registration_required: true
   subscription_required: false
   free_subscription: true
@@ -9837,7 +9837,7 @@ Urlscan.io:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 15
   registration_required:
   - true
   - false
@@ -9895,7 +9895,7 @@ Valhalla:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -9933,7 +9933,7 @@ ValidateObservable:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -10022,7 +10022,7 @@ Verifalia:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: Verifalia
@@ -10057,7 +10057,7 @@ Virusshare:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: false
   subscription_required: false
   free_subscription: false
@@ -10106,7 +10106,7 @@ VirusTotal:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 3
   registration_required: true
   subscription_required:
   - true
@@ -10187,7 +10187,7 @@ VirustotalDownloader:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false
@@ -10225,7 +10225,7 @@ VMRay:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: VMRay
@@ -10262,7 +10262,7 @@ Vulners:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: true
@@ -10314,7 +10314,7 @@ Watcher:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: Watcher_Check
@@ -10405,7 +10405,7 @@ Wazuh:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders:
@@ -10441,7 +10441,7 @@ WOT:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: WOT_Lookup
@@ -10486,7 +10486,7 @@ Yara:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: high
+  visibility: 18
   registration_required: false
   subscription_required: false
   free_subscription: true
@@ -10525,7 +10525,7 @@ Yeti:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers:
     - name: Yeti
@@ -10564,7 +10564,7 @@ ZEROFOX:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   integrations:
     analyzers: []
     responders:
@@ -10611,7 +10611,7 @@ Zscaler:
   useCases: []
   externalIntegrations: []
   displayOnWebsite: true
-  visibility: low
+  visibility: 100
   registration_required: true
   subscription_required: true
   free_subscription: false

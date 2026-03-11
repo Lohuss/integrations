@@ -10,7 +10,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -69,7 +69,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 13,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": true,
@@ -177,7 +177,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [],
@@ -316,7 +316,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -362,7 +362,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -441,7 +441,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -490,7 +490,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -535,7 +535,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -584,7 +584,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -646,7 +646,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -706,7 +706,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -761,7 +761,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 19,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -806,7 +806,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -853,7 +853,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -897,7 +897,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": false,
     "integrations": {
@@ -942,7 +942,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -999,7 +999,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [
@@ -1247,7 +1247,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -1309,7 +1309,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": false,
     "free_subscription": false,
@@ -1359,7 +1359,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -1405,7 +1405,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 14,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -1450,7 +1450,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -1500,7 +1500,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -1685,7 +1685,7 @@
       }
     ],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 1,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -2031,7 +2031,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": true,
@@ -2076,7 +2076,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -2136,7 +2136,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -2211,7 +2211,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": true,
@@ -2260,7 +2260,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -2309,7 +2309,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -2354,7 +2354,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [],
@@ -2380,7 +2380,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [
@@ -2422,7 +2422,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -2496,7 +2496,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -2541,7 +2541,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -2587,7 +2587,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -2675,7 +2675,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -2957,7 +2957,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": true,
@@ -3002,7 +3002,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [
@@ -3074,7 +3074,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": false,
     "free_subscription": true,
@@ -3120,7 +3120,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -3321,7 +3321,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -3398,7 +3398,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "integrations": {
@@ -3442,7 +3442,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [
@@ -3501,7 +3501,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -3546,7 +3546,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -3636,7 +3636,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -3729,7 +3729,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [],
@@ -3755,7 +3755,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": true,
@@ -3801,7 +3801,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -3867,7 +3867,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [
@@ -3969,7 +3969,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -4068,7 +4068,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 7,
     "registration_required": true,
     "subscription_required": [
       true,
@@ -4276,7 +4276,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -4319,7 +4319,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "subscription_required": true,
     "free_subscription": false,
     "integrations": {
@@ -4816,7 +4816,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": true,
@@ -4931,7 +4931,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [],
@@ -5159,7 +5159,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": true,
@@ -5245,7 +5245,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": true,
@@ -5291,7 +5291,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -5349,7 +5349,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "integrations": {
@@ -5461,7 +5461,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -5503,7 +5503,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": true,
@@ -5550,7 +5550,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -5599,7 +5599,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -5670,7 +5670,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [],
@@ -5781,7 +5781,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": true,
@@ -5904,7 +5904,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [
@@ -5946,7 +5946,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -5989,7 +5989,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": true,
@@ -6037,7 +6037,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "integrations": {
@@ -6081,7 +6081,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [
@@ -6125,7 +6125,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [
@@ -6167,7 +6167,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -6322,7 +6322,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -6368,7 +6368,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": true,
@@ -6483,7 +6483,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -6587,7 +6587,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -6642,7 +6642,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 6,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": true,
@@ -6829,7 +6829,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 4,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -7050,7 +7050,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 9,
     "registration_required": [
       true,
       false
@@ -7177,7 +7177,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 5,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -7347,7 +7347,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -7453,7 +7453,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": false,
     "free_subscription": true,
@@ -7498,7 +7498,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -7541,7 +7541,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -7586,7 +7586,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -7629,7 +7629,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": false,
     "free_subscription": false,
@@ -7684,7 +7684,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 17,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": true,
@@ -7805,7 +7805,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -7852,7 +7852,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": false,
     "free_subscription": false,
@@ -7938,7 +7938,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -8482,7 +8482,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -8694,7 +8694,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -8741,7 +8741,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -8798,7 +8798,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": [
@@ -8962,7 +8962,7 @@
     ],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 10,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -9030,7 +9030,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -9075,7 +9075,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -9127,7 +9127,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 8,
     "registration_required": true,
     "subscription_required": true,
     "integrations": {
@@ -9175,7 +9175,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [
@@ -9218,7 +9218,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -9530,7 +9530,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -9603,7 +9603,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [
@@ -9647,7 +9647,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -9791,7 +9791,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [
@@ -9834,7 +9834,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -9940,7 +9940,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 11,
     "registration_required": true,
     "subscription_required": false,
     "free_subscription": true,
@@ -10125,7 +10125,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -10208,7 +10208,7 @@
     ],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 12,
     "registration_required": true,
     "subscription_required": false,
     "free_subscription": true,
@@ -10268,7 +10268,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -10323,7 +10323,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -10398,7 +10398,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -10443,7 +10443,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -10509,7 +10509,7 @@
       }
     ],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 2,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": true,
@@ -10720,7 +10720,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -10762,7 +10762,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -10809,7 +10809,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -10852,7 +10852,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [],
@@ -10933,7 +10933,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 20,
     "registration_required": true,
     "subscription_required": false,
     "free_subscription": true,
@@ -10978,7 +10978,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [
@@ -11043,7 +11043,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -11158,7 +11158,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [],
@@ -11184,7 +11184,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -11228,7 +11228,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -11271,7 +11271,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -11318,7 +11318,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -11399,7 +11399,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": true,
@@ -11446,7 +11446,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -11488,7 +11488,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": true,
@@ -11535,7 +11535,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -11577,7 +11577,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": false,
     "free_subscription": true,
@@ -11649,7 +11649,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 16,
     "registration_required": true,
     "subscription_required": false,
     "free_subscription": true,
@@ -11708,7 +11708,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 15,
     "registration_required": [
       true,
       false
@@ -11777,7 +11777,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -11822,7 +11822,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -11924,7 +11924,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -11966,7 +11966,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": false,
@@ -12023,7 +12023,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 3,
     "registration_required": true,
     "subscription_required": [
       true,
@@ -12121,7 +12121,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
@@ -12166,7 +12166,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -12210,7 +12210,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": true,
@@ -12272,7 +12272,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -12375,7 +12375,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [
@@ -12418,7 +12418,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -12470,7 +12470,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "high",
+    "visibility": 18,
     "registration_required": false,
     "subscription_required": false,
     "free_subscription": true,
@@ -12515,7 +12515,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [
         {
@@ -12561,7 +12561,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "integrations": {
       "analyzers": [],
       "responders": [
@@ -12618,7 +12618,7 @@
     "useCases": [],
     "externalIntegrations": [],
     "displayOnWebsite": true,
-    "visibility": "low",
+    "visibility": 100,
     "registration_required": true,
     "subscription_required": true,
     "free_subscription": false,
