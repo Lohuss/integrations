@@ -7,8 +7,6 @@ Ingest Proofpoint TAP messagesDelivered events as TheHive alerts to track and re
 - **TheHive version required:** 5.5+
 - **Related function:** [alertFeeder_ProofPoint_messageDelivered](https://github.com/StrangeBeeCorp/integrations/blob/main/integrations/vendors/Proofpoint/thehive/functions/function_Feeder_alertFromProofpoint_messageDelivered.js)
 
----
-
 ### [Ingest Proofpoint ClicksPermitted Events into TheHive Using an Alert Feeder](https://github.com/StrangeBeeCorp/integrations/blob/main/integrations/vendors/Proofpoint/use-cases/alert-ingestion-clicksPermitted.md)
 Ingest Proofpoint TAP clicksPermitted events as TheHive alerts to track and respond to users who clicked on malicious links that were not blocked by Proofpoint and may require investigation.
 
