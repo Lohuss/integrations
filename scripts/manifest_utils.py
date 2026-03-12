@@ -96,7 +96,7 @@ def _scan_cortex_items(vendor: str, item_type: str) -> tuple[List[Dict], Dict]:
             relative_path = f".upstream/cortex/{item_type}/{vendor}/{file_path.name}"
 
             items.append({
-                'name': content.get('name'),
+                'name': content.get('name', '').replace('_', ' '),
                 'version': content.get('version'),
                 'author': content.get('author'),
                 'license': content.get('license'),
@@ -293,7 +293,6 @@ def find_vendors() -> List[str]:
 
 def generate_vendor_manifest(vendor: str) -> Dict:
     vendor_metadata = read_vendor_metadata(vendor)
-
     analyzers, analyzer_sub = scan_analyzers(vendor)
     responders, responder_sub = scan_responders(vendor)
     functions = scan_functions(vendor)
