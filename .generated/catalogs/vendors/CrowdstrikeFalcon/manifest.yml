@@ -304,19 +304,11 @@ integrations:
     github_url: https://github.com/StrangeBeeCorp/integrations/blob/main/.upstream/cortex/responders/CrowdstrikeFalcon/CrowdstrikeFalcon_liftContainmentHost.json
     upstream_url: https://github.com/TheHive-Project/Cortex-Analyzers/blob/master/responders/CrowdstrikeFalcon
     integration_type: null
-  functions:
-  - name: CRWDAlertIngestion
-    version: 1.0.0
-    description: Ingests CrowdstrikeFalcon Alerts, also processes observables & TTPs.
-    kind: function
-    mode: Enabled
-    file: integrations/vendors/CrowdstrikeFalcon/thehive/functions/crwd-alert-ingestion.js
-    url: https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/CrowdstrikeFalcon/thehive/functions/crwd-alert-ingestion.js
-    github_url: https://github.com/StrangeBeeCorp/integrations/blob/main/integrations/vendors/CrowdstrikeFalcon/thehive/functions/crwd-alert-ingestion.js
+  functions: []
 stats:
   totalAnalyzers: 11
   totalResponders: 9
-  totalFunctions: 1
+  totalFunctions: 0
   totalUseCases: 2
   totalExternalIntegrations: 1
-  total: 22
+  total: 21

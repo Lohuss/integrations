@@ -178,6 +178,7 @@ integrations:
   functions:
   - name: createAlertFromSplunk
     version: 1.0.0
+    author: null
     description: This function creates a TheHive Alert based on an input coming from Splunk, and matches the Splunk fields
       to TheHive fields. In Splunk, you'll need to configure the webhook URL to point to the TheHive function URL
     kind: function

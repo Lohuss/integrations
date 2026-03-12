@@ -6,10 +6,10 @@ Example functions for TheHive. Use them as-is or as inspiration for your own.
 
 ## Summary
 
-- **Total Functions:** 14
+- **Total Functions:** 13
 - **Generic Functions:** 7
-- **Vendor-Specific Functions:** 7
-- **Vendors with Functions:** 6
+- **Vendor-Specific Functions:** 6
+- **Vendors with Functions:** 5
 
 ## Generic Functions
 
@@ -130,19 +130,6 @@ This function will delete all the IP Observable from an alert
 This function creates alerts from data coming from a Airtable database. It checks the alert does not already exist, then creates the alert, and completes type, source, source-ref, title, description and tags
 
 [View full documentation](airtable-alertfromairtable.md)
-
----
-
-### CrowdStrike Falcon
-
-**Vendor:** [CrowdStrike Falcon](../vendors/CrowdstrikeFalcon/overview)
-
-#### [CRWDAlertIngestion](crowdstrike-falcon-crwdalertingestion.md) `v1.0.0`
-**Kind:** `function`
-
-Ingests CrowdstrikeFalcon Alerts, also processes observables & TTPs.
-
-[View full documentation](crowdstrike-falcon-crwdalertingestion.md)
 
 ---
 

@@ -5,10 +5,12 @@
 - **Total Vendors:** 184
 - **Total Analyzers:** 260
 - **Total Responders:** 137
-- **Total Functions:** 7
+- **Total Functions:** 6
 - **Total External Integrations:** 10
-- **Total Integrations:** 414
+- **Total Integrations:** 413
 
 ## Changes
 
-No changes detected.
+### Updated Vendors (1)
+
+- **CrowdStrike Falcon**: 22 -> 21 (-1)

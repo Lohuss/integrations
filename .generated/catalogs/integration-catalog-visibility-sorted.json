@@ -195,6 +195,7 @@
           {
             "name": "alertFromAirtable",
             "version": "1.0.0",
+            "author": null,
             "description": "This function creates alerts from data coming from a Airtable database. It checks the alert does not already exist, then creates the alert, and completes type, source, source-ref, title, description and tags",
             "kind": "function",
             "mode": "Enabled",
@@ -2078,26 +2079,15 @@
             "integration_type": null
           }
         ],
-        "functions": [
-          {
-            "name": "CRWDAlertIngestion",
-            "version": "1.0.0",
-            "description": "Ingests CrowdstrikeFalcon Alerts, also processes observables & TTPs.",
-            "kind": "function",
-            "mode": "Enabled",
-            "file": "integrations/vendors/CrowdstrikeFalcon/thehive/functions/crwd-alert-ingestion.js",
-            "url": "https://raw.githubusercontent.com/StrangeBeeCorp/integrations/refs/heads/main/integrations/vendors/CrowdstrikeFalcon/thehive/functions/crwd-alert-ingestion.js",
-            "github_url": "https://github.com/StrangeBeeCorp/integrations/blob/main/integrations/vendors/CrowdstrikeFalcon/thehive/functions/crwd-alert-ingestion.js"
-          }
-        ]
+        "functions": []
       },
       "stats": {
         "totalAnalyzers": 11,
         "totalResponders": 9,
-        "totalFunctions": 1,
+        "totalFunctions": 0,
         "totalUseCases": 2,
         "totalExternalIntegrations": 1,
-        "total": 22
+        "total": 21
       }
     },
     {
@@ -5499,6 +5489,7 @@
           {
             "name": "createAlertFromJAMFProtect",
             "version": "1.0.0",
+            "author": null,
             "description": "Ingests alerts from JAMF Protect. Extracts analytic details, host and user information, MITRE ATT&CK tags, and file/path data. The function constructs a TheHive alert, including a title, markdown-formatted description (with original alert JSON), relevant observables (IP, hostname, file, hash, URL, FQDN, URI path, user agent), MITRE ATT&CK enrichment, and a link to the JAMF alert. Handles default values and supports tagging and mapping of MITRE tactics for easier triage and investigation. For the setup in JAMF Protect, go to Configuration > Actions > *your action* > Add an HTTP data endpoint + your Authorization Header and Bearer as value",
             "kind": "function",
             "mode": "Enabled",
@@ -5536,6 +5527,7 @@
           {
             "name": "alertFromJIRA",
             "version": "1.0.0",
+            "author": null,
             "description": "This function creates alerts from JIRA issues. It checks if the alert already exists, then creates it with type, source, source-ref, title, and description",
             "kind": "function",
             "mode": "Enabled",
@@ -8871,6 +8863,7 @@
           {
             "name": "alertFeeder_ProofPoint_messageDelivered",
             "version": "1.0.0",
+            "author": "Fabien Bloume, StrangeBee",
             "description": "Ingests ProofPoint messageDelivered alerts in TheHive",
             "kind": "function",
             "mode": "Enabled",
@@ -8881,6 +8874,7 @@
           {
             "name": "alertFeeder_ProofPoint_clicksPermitted",
             "version": "1.0.0",
+            "author": "Fabien Bloume, StrangeBee",
             "description": "Ingests ProofPoint clicksPermitted alerts in TheHive",
             "kind": "function",
             "mode": "Enabled",
@@ -10612,6 +10606,7 @@
           {
             "name": "createAlertFromSplunk",
             "version": "1.0.0",
+            "author": null,
             "description": "This function creates a TheHive Alert based on an input coming from Splunk, and matches the Splunk fields to TheHive fields. In Splunk, you'll need to configure the webhook URL to point to the TheHive function URL",
             "kind": "function",
             "mode": "Enabled",

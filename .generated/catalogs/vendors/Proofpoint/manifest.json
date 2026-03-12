@@ -85,6 +85,7 @@
       {
         "name": "alertFeeder_ProofPoint_messageDelivered",
         "version": "1.0.0",
+        "author": "Fabien Bloume, StrangeBee",
         "description": "Ingests ProofPoint messageDelivered alerts in TheHive",
         "kind": "function",
         "mode": "Enabled",
@@ -95,6 +96,7 @@
       {
         "name": "alertFeeder_ProofPoint_clicksPermitted",
         "version": "1.0.0",
+        "author": "Fabien Bloume, StrangeBee",
         "description": "Ingests ProofPoint clicksPermitted alerts in TheHive",
         "kind": "function",
         "mode": "Enabled",

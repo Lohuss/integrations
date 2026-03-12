@@ -20,9 +20,9 @@ Built something useful? Contributions are welcome!
 - **Total Vendors:** 184
 - **Total Analyzers:** 260
 - **Total Responders:** 137
-- **Total Functions:** 7
+- **Total Functions:** 6
 - **Total External Integrations:** 10
-- **Total Integrations:** 414
+- **Total Integrations:** 413
 
 ## Vendors by Category
 
@@ -58,7 +58,7 @@ Built something useful? Contributions are welcome!
 
 ### EDR
 
-**[CrowdStrike Falcon](vendors/CrowdstrikeFalcon/overview.md)** (22 integrations)
+**[CrowdStrike Falcon](vendors/CrowdstrikeFalcon/overview.md)** (21 integrations)
   CrowdStrike Falcon is a cloud-native endpoint protection platform that provides real-time threat ...
 
 **[Microsoft Defender for Endpoint](vendors/MSDefenderEndpoints/overview.md)** (12 integrations)
@@ -517,7 +517,7 @@ Built something useful? Contributions are welcome!
 - **[Cluster25](vendors/Cluster25/overview.md)** - *Uncategorized* - 1 analyzers
 - **[ClusterHawk](vendors/ClusterHawk/overview.md)** - *Uncategorized* - 1 analyzers
 - **[CrowdSec](vendors/Crowdsec/overview.md)** - *Threat Intelligence* - 1 analyzers
-- **[CrowdStrike Falcon](vendors/CrowdstrikeFalcon/overview.md)** - *EDR* - 11 analyzers, 9 responders, 1 functions, 1 external
+- **[CrowdStrike Falcon](vendors/CrowdstrikeFalcon/overview.md)** - *EDR* - 11 analyzers, 9 responders, 1 external
 - **[Crtsh](vendors/Crtsh/overview.md)** - *Uncategorized* - 1 analyzers
 - **[CuckooSandbox](vendors/CuckooSandbox/overview.md)** - *Uncategorized* - 2 analyzers
 - **[CyberChef](vendors/CyberChef/overview.md)** - *Uncategorized* - 3 analyzers

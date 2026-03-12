@@ -162,15 +162,6 @@ This action lifts containment on the host, which returns its network communicati
 
 ---
 
-## Functions (1)
-
-### CRWDAlertIngestion `v1.0.0`
-Ingests CrowdstrikeFalcon Alerts, also processes observables & TTPs.
-
-- **Source:** [View code](https://github.com/StrangeBeeCorp/integrations/blob/main/integrations/vendors/CrowdstrikeFalcon/thehive/functions/crwd-alert-ingestion.js)
-
----
-
 ## External Integrations (1)
 
 External integrations that connect CrowdStrike Falcon with TheHive:

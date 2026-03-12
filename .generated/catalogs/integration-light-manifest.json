@@ -778,10 +778,10 @@
     "stats": {
       "totalAnalyzers": 11,
       "totalResponders": 9,
-      "totalFunctions": 1,
+      "totalFunctions": 0,
       "totalUseCases": 2,
       "totalExternalIntegrations": 1,
-      "total": 22
+      "total": 21
     }
   },
   "Crtsh": {

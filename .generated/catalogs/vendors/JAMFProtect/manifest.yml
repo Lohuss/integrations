@@ -45,6 +45,7 @@ integrations:
   functions:
   - name: createAlertFromJAMFProtect
     version: 1.0.0
+    author: null
     description: Ingests alerts from JAMF Protect. Extracts analytic details, host and user information, MITRE ATT&CK tags,
       and file/path data. The function constructs a TheHive alert, including a title, markdown-formatted description (with
       original alert JSON), relevant observables (IP, hostname, file, hash, URL, FQDN, URI path, user agent), MITRE ATT&CK
