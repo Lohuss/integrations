@@ -70,7 +70,11 @@ def generate_markdown_overview(vendor: str, manifest: Dict) -> str:
         function_lookup = {f.get('file', ''): f for f in functions}
 
         for i, uc in enumerate(use_cases):
-            lines.extend([f"### {uc['name']}"])
+            github_url = uc.get('documentation', {}).get('github_url')
+            if github_url:
+                lines.append(f"### [{uc['name']}]({github_url})")
+            else:
+                lines.append(f"### {uc['name']}")
             if uc.get('description'):
                 lines.append(uc['description'])
             lines.append("")
@@ -79,8 +83,6 @@ def generate_markdown_overview(vendor: str, manifest: Dict) -> str:
                 lines.append(f"- **License required:** {uc['license_required'].capitalize()}")
             if uc.get('thehive_version_required'):
                 lines.append(f"- **TheHive version required:** {uc['thehive_version_required']}+")
-            if uc.get('documentation', {}).get('github_url'):
-                lines.append(f"- **Documentation:** [View tutorial]({uc['documentation']['github_url']})")
 
             for linked_path in uc.get('linked_to', []):
                 func = function_lookup.get(linked_path)
