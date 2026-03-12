@@ -1,16 +1,14 @@
 ## Use Cases (2)
 
-### Ingest CrowdStrike Falcon Detections and Incidents into TheHive Using an External Script
+### [Ingest CrowdStrike Falcon Detections and Incidents into TheHive Using an External Script](https://github.com/StrangeBeeCorp/integrations/blob/main/integrations/vendors/CrowdstrikeFalcon/use-cases/ingest-crowdstrike-falcon-alerts-external-script.md)
 Install and configure the falcon2thehive connector to automatically ingest CrowdStrike Falcon detections and incidents into TheHive as alerts in real time.
 
-- **Documentation:** [View tutorial](https://github.com/StrangeBeeCorp/integrations/blob/main/integrations/vendors/CrowdstrikeFalcon/use-cases/ingest-crowdstrike-falcon-alerts-external-script.md)
 
 ---
 
-### Synchronise status between TheHive alerts/cases and CrowdStrike detections/incidents
+### [Synchronise status between TheHive alerts/cases and CrowdStrike detections/incidents](https://github.com/StrangeBeeCorp/integrations/blob/main/integrations/vendors/CrowdstrikeFalcon/use-cases/synchronize-status-thehive-crowdstrike-falcon.md)
 Keep case/alert status in sync between TheHive and CrowdStrike Falcon using notifications and the CrowdStrikeFalcon_Sync responder.
 
-- **Documentation:** [View tutorial](https://github.com/StrangeBeeCorp/integrations/blob/main/integrations/vendors/CrowdstrikeFalcon/use-cases/synchronize-status-thehive-crowdstrike-falcon.md)
 
 ---
 

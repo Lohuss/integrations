@@ -81,10 +81,9 @@ Execute a savedsearch on a Splunk instance with an unidentified data as argument
 
 ## Functions (1)
 
-### createAlertFromSplunk `v1.0.0`
+### [createAlertFromSplunk](https://github.com/StrangeBeeCorp/integrations/blob/main/integrations/vendors/Splunk/thehive/functions/function_API_createAlertFromSplunk.js) `v1.0.0`
 This function creates a TheHive Alert based on an input coming from Splunk, and matches the Splunk fields to TheHive fields. In Splunk, you'll need to configure the webhook URL to point to the TheHive function URL
 
-- **Source:** [View code](https://github.com/StrangeBeeCorp/integrations/blob/main/integrations/vendors/Splunk/thehive/functions/function_API_createAlertFromSplunk.js)
 
 ---
 
