@@ -131,14 +131,15 @@ def generate_markdown_overview(vendor: str, manifest: Dict) -> str:
                        f"External integrations that connect {manifest['name']} with TheHive:", ""])
 
         for i, vi in enumerate(external_integrations):
-            lines.append(f"### {vi['name']}")
+            if vi.get('documentation'):
+                lines.append(f"### [{vi['name']}]({vi['documentation']})")
+            else:
+                lines.append(f"### {vi['name']}")
             if vi.get('description'):
                 lines.append(vi['description'])
             lines.append("")
             if vi.get('type'):
                 lines.append(f"- **Type:** {vi['type']}")
-            if vi.get('documentation'):
-                lines.append(f"- **Documentation:** [{vi['documentation']}]({vi['documentation']})")
             lines.append("")
             if i < len(external_integrations) - 1:
                 lines.extend(["---", ""])
