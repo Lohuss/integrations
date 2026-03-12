@@ -202,7 +202,7 @@ def discover_use_cases_from_markdown(vendor: str) -> List[Dict]:
             }
         }
 
-        for field in ('tags', 'difficulty', 'thehive_version_required', 'license_required', 'linked_to'):
+        for field in ('author', 'tags', 'difficulty', 'thehive_version_required', 'license_required', 'linked_to'):
             if field in frontmatter:
                 use_case[field] = frontmatter[field]
 

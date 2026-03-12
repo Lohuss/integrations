@@ -69,7 +69,7 @@ def generate_markdown_overview(vendor: str, manifest: Dict) -> str:
         lines.extend([f"## Use Cases ({len(use_cases)})", ""])
         function_lookup = {f.get('file', ''): f for f in functions}
 
-        for i, uc in enumerate(use_cases):
+        for uc in use_cases:
             github_url = uc.get('documentation', {}).get('github_url')
             if github_url:
                 lines.append(f"### [{uc['name']}]({github_url})")
@@ -79,6 +79,8 @@ def generate_markdown_overview(vendor: str, manifest: Dict) -> str:
                 lines.append(uc['description'])
             lines.append("")
 
+            if uc.get('author'):
+                lines.append(f"- **Author:** {uc['author']}")
             if uc.get('license_required'):
                 lines.append(f"- **License required:** {uc['license_required'].capitalize()}")
             if uc.get('thehive_version_required'):
@@ -92,8 +94,6 @@ def generate_markdown_overview(vendor: str, manifest: Dict) -> str:
                     lines.append(f"- **Related:** `{linked_path}`")
 
             lines.append("")
-            if i < len(use_cases) - 1:
-                lines.extend(["---", ""])
 
         _add_divider_if_more('use_cases')
 
