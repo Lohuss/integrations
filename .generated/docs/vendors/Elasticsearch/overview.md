@@ -13,8 +13,7 @@ Search for IoCs in Elasticsearch
 
 External integrations that connect Elasticsearch with TheHive:
 
-### TheHive Connector for Kibana
+### [TheHive Connector for Kibana](https://www.elastic.co/docs/reference/kibana/connectors-kibana/thehive-action-type)
 Native Kibana connector that allows Elasticsearch to create alerts and create cases in TheHive
 
 - **Type:** connector
-- **Documentation:** [https://www.elastic.co/docs/reference/kibana/connectors-kibana/thehive-action-type](https://www.elastic.co/docs/reference/kibana/connectors-kibana/thehive-action-type)

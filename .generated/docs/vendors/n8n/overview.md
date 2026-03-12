@@ -13,8 +13,7 @@ Send data to n8n via webhook
 
 External integrations that connect n8n with TheHive:
 
-### Cortex and TheHive Nodes
+### [Cortex and TheHive Nodes](https://n8n.io/integrations/thehive-5/)
 Pre-built workflow nodes that enable automated data transfer and task orchestration between n8n, Cortex analyzers/responders, and TheHive cases/alerts/observables
 
 - **Type:** workflow-nodes
-- **Documentation:** [https://n8n.io/integrations/thehive-5/](https://n8n.io/integrations/thehive-5/)

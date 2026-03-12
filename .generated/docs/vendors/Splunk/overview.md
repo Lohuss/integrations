@@ -91,16 +91,14 @@ This function creates a TheHive Alert based on an input coming from Splunk, and 
 
 External integrations that connect Splunk with TheHive:
 
-### TheHive/Cortex Technical Add-on
+### [TheHive/Cortex Technical Add-on](https://splunkbase.splunk.com/app/5329)
 Bidirectional integration add-on that pulls case and alert events from TheHive, retrieves Cortex job information, and enables creating alerts/cases and executing functions in TheHive directly from Splunk searches and dashboards
 
 - **Type:** technical-addon
-- **Documentation:** [https://splunkbase.splunk.com/app/5329](https://splunkbase.splunk.com/app/5329)
 
 ---
 
-### TheHive SOAR Connector
+### [TheHive SOAR Connector](https://splunkbase.splunk.com/app/5939)
 Official Splunk SOAR connector with 16 actions for case management, task operations, observable handling, and TTP tracking to automate incident response workflows between Splunk and TheHive
 
 - **Type:** soar-connector
-- **Documentation:** [https://splunkbase.splunk.com/app/5939](https://splunkbase.splunk.com/app/5939)

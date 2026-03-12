@@ -162,8 +162,7 @@ This action lifts containment on the host, which returns its network communicati
 
 External integrations that connect CrowdStrike Falcon with TheHive:
 
-### falcon2thehive
+### [falcon2thehive](https://github.com/StrangeBeeCorp/falcon2thehive)
 Real-time connector that streams CrowdStrike Falcon detection events into TheHive, turning Falcon alerts into actionable TheHive Alerts. Supports DetectionSummaryEvent, IdentityProtectionEvent, and MobileDetectionSummaryEvent with automatic observable extraction and TTP mapping.
 
 - **Type:** connector
-- **Documentation:** [https://github.com/StrangeBeeCorp/falcon2thehive](https://github.com/StrangeBeeCorp/falcon2thehive)
