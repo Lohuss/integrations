@@ -2,32 +2,40 @@
 title: Ingest Proofpoint ClicksPermitted Events into TheHive Using an Alert Feeder
 description: Ingest Proofpoint TAP clicksPermitted events as TheHive alerts to track and respond to users who clicked on malicious links that were not blocked by Proofpoint and may require investigation.
 tags: [proofpoint, tap, clicksPermitted, alert-ingestion]
-thehive_version_required : "5.5"
-license_required : "platinum"
-linked_to : ["integrations/vendors/Proofpoint/thehive/functions/function_Feeder_alertFromProofpoint_clicksPermitted.js"]
+thehive_version_required: "5.5"
+license_required: "platinum"
+linked_to: ["integrations/vendors/Proofpoint/thehive/functions/function_Feeder_alertFromProofpoint_clicksPermitted.js"]
 ---
 # Tutorial: Ingest Proofpoint ClicksPermitted Events into TheHive Using an Alert Feeder
 
-<!-- md:permission `manageConfig` --> <!-- md:integration Native --> <!-- md:version 5.5 --> <!-- md:license Platinum -->
-
-{% include-markdown "includes/alert-feeder-proofpoint-tap-not-tested-live.md" %}
+> **Warning:** This alert feeder has not been tested in a live Proofpoint TAP environment. Please verify its behavior before using it in production.
 
 In this tutorial, we're going to configure an alert feeder that ingests Proofpoint Targeted Attack Protection (TAP) `clicksPermitted` events as TheHive alerts.
 
 By the end, you'll have a working setup to track and respond to users who clicked on malicious links that weren't blocked by Proofpoint.
 
-!!! tip "More integration options"
-    For the complete list of integration options between Proofpoint and TheHive, see [Proofpoint Integration with TheHive](proofpoint-integrations.md).
+> **Tip:** More integration options
+> For the complete list of integration options between Proofpoint and TheHive, see [Proofpoint Integration with TheHive](proofpoint-integrations.md).
 
-{% include-markdown "includes/tap-service-credentials.md" %}
+## Step 1: Get your Proofpoint TAP service credentials
+
+To connect TheHive to the Proofpoint TAP API, you need a **service principal** and **service secret** from your Proofpoint TAP dashboard.
+
+1. Log in to your [Proofpoint TAP dashboard](https://threatinsight.proofpoint.com/).
+
+2. Go to **Settings** > **Connected Applications**.
+
+3. Generate a new **service credential** if you don't already have one.
+
+4. Copy and save the **service principal** and **service secret**. You'll need them in the next step.
 
 ## Step 2: Create an alert feeder in TheHive
 
-To ingest Proofpoint `clicksPermitted` events into TheHive, you need to [create an alert feeder](../../thehive/user-guides/organization/configure-organization/manage-feeders/create-a-feeder.md) that queries the Proofpoint SIEM API and transforms the results into alerts.
+To ingest Proofpoint `clicksPermitted` events into TheHive, you need to create an alert feeder that queries the Proofpoint SIEM API and transforms the results into alerts.
 
-1. {% include-markdown "includes/organization-view-go-to.md" %}
+1. Go to the **Organization** view.
 
-2. {% include-markdown "includes/connectors-tab-organization-go-to.md" %}
+2. Select the **Connectors** tab.
 
 3. In the **General settings** section, enter the following information:
 
@@ -35,8 +43,7 @@ To ingest Proofpoint `clicksPermitted` events into TheHive, you need to [create 
 
     **- Interval**: How often the alert feeder sends requests to the external system.
 
-    !!! warning "Define the interval carefully based on your reactivity requirements"
-        Make sure the interval is shorter than the processing time to avoid potential issues, but not too short to prevent excessive requests to the API.
+    > **Warning:** Define the interval carefully based on your reactivity requirements. Make sure the interval is shorter than the processing time to avoid potential issues, but not too short to prevent excessive requests to the API.
 
     **- Request timeout time**: The maximum time, in seconds, the alert feeder waits for a response before timing out.
 
@@ -60,8 +67,7 @@ To ingest Proofpoint `clicksPermitted` events into TheHive, you need to [create 
 
 6. In the **Create function** section, enter the following information:
 
-    !!! info "Feeder function"
-        Once created, the function is automatically added to the [functions list](../../thehive/user-guides/organization/configure-organization/manage-functions/about-functions.md) with the type *feeder*.
+    > **Note:** Once created, the function is automatically added to the functions list with the type *feeder*.
 
     **- Function name**: *ProofpointClicksPermitted*
 
@@ -194,14 +200,14 @@ To ingest Proofpoint `clicksPermitted` events into TheHive, you need to [create 
     }
     ```
 
-7. {% include-markdown "includes/test-function.md" %}
+7. Select **Test** to verify the function works as expected.
 
 8. Select **Confirm**.
 
-For more details, see the [Proofpoint SIEM API official documentation](https://help.proofpoint.com/Threat_Insight_Dashboard/API_Documentation/SIEM_API){target=_blank}.
+For more details, see the [Proofpoint SIEM API official documentation](https://help.proofpoint.com/Threat_Insight_Dashboard/API_Documentation/SIEM_API).
 
 At this point, your alert feeder should be operational and TheHive will start ingesting `clicksPermitted` events as alerts.
 
-<h2>Next steps</h2>
+## Next steps
 
 * [Ingest Proofpoint messagesDelivered Events into TheHive Using an Alert Feeder](ingest-proofpoint-messagesdelivered-events.md)
